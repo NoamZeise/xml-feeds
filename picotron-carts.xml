@@ -1,64 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-23 06:46:22</updated>
+<updated>2024-04-24 05:10:47</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Rat Maze 3D Screensaver v1.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141402"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141402</id>
-<updated>2024-04-23 06:46:22</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
-<author><name>Snail_God</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-5.png"/>
-</entry>
-
-<entry>
-<title type="html">Bells</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140919"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140919</id>
-<updated>2024-04-23 16:00:17</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>zep</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bells-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Charactron, a little character maker</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141851"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141851</id>
-<updated>2024-04-23 21:01:54</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>berry_sauvage</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_charactron-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Conway&apos;s Game of Life</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141892"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141892</id>
-<updated>2024-04-23 21:33:55</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Soupster</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cgol-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Lens</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141911"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141911</id>
-<updated>2024-04-23 22:23:30</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,&quot;logging&quot;,]"/>
-<author><name>bitmat</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lens-3.png"/>
-</entry>
 
 <entry>
 <title type="html">ASTROYD</title>
@@ -116,39 +61,6 @@
 </entry>
 
 <entry>
-<title type="html">GORGON (deluxe)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141948</id>
-<updated>2024-04-25 16:45:06</updated>
-<summary></summary>
-<category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-0.png"/>
-</entry>
-
-<entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-04-25 22:18:56</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Colour Reference 1.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141956</id>
-<updated>2024-04-26 01:59:25</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
-<author><name>MrScottyTay</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-0.png"/>
-</entry>
-
-<entry>
 <title type="html">flapperDuck</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141885"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141885</id>
@@ -190,6 +102,50 @@
 <category term="[&quot;arcade&quot;,&quot;classic&quot;,&quot;original&quot;,&quot;game&quot;,]"/>
 <author><name>BGelais</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_foraruyum-8.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-04-26 15:35:16</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
+</entry>
+
+<entry>
+<title type="html">GORGON</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141948</id>
+<updated>2024-04-26 15:59:18</updated>
+<summary></summary>
+<category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-1.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.0 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-04-26 19:11:36</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Colour Reference 1.1</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141956</id>
+<updated>2024-04-26 21:11:57</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
+<author><name>MrScottyTay</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-1.png"/>
 </entry>
 
 </feed>
