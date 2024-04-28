@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-24 05:10:47</updated>
+<updated>2024-04-24 09:15:28</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">ASTROYD</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141906</id>
-<updated>2024-04-24 05:10:47</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>wanp</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Font Utils</title>
@@ -105,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-04-26 15:35:16</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
-</entry>
-
-<entry>
 <title type="html">GORGON</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141948</id>
@@ -127,25 +105,36 @@
 </entry>
 
 <entry>
-<title type="html">OkPal v1.0.0 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-04-26 19:11:36</updated>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-04-27 15:50:58</updated>
 <summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-3.png"/>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
 </entry>
 
 <entry>
-<title type="html">Colour Reference 1.1</title>
+<title type="html">OkPal v1.0.1 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-04-27 17:37:22</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Colour Reference 1.2</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141956</id>
-<updated>2024-04-26 21:11:57</updated>
+<updated>2024-04-27 21:56:29</updated>
 <summary></summary>
 <category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
 <author><name>MrScottyTay</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-1.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-2.png"/>
 </entry>
 
 </feed>
