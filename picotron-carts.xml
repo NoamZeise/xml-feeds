@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-24 09:15:28</updated>
+<updated>2024-04-24 23:48:41</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Font Utils</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141244"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141244</id>
-<updated>2024-04-24 09:15:28</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_font_utils-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Kawaiiculator</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141416"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141416</id>
-<updated>2024-04-24 09:34:54</updated>
-<summary></summary>
-<category term="[&quot;calculator&quot;,&quot;picotron&quot;,&quot;cute&quot;,&quot;app&quot;,]"/>
-<author><name>profpatonildo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_kawaiiculator-0.png"/>
-</entry>
-
-<entry>
-<title type="html">pct-2 Fantasy Console in Picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141821"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141821</id>
-<updated>2024-04-24 11:25:17</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>auex</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pct2-1.png"/>
-</entry>
 
 <entry>
 <title type="html">PICOPHONE 7 tools in 1</title>
@@ -127,14 +94,58 @@
 </entry>
 
 <entry>
-<title type="html">Colour Reference 1.2</title>
+<title type="html">Colour Reference 1.3</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141956</id>
-<updated>2024-04-27 21:56:29</updated>
+<updated>2024-04-28 07:59:09</updated>
 <summary></summary>
 <category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
 <author><name>MrScottyTay</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-2.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Tiny Infinite Dungeons</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142004"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142004</id>
+<updated>2024-04-28 09:46:27</updated>
+<summary></summary>
+<category term="[&quot;roguelike&quot;,]"/>
+<author><name>codemonkeyalx</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_teyedheze-0.png"/>
+</entry>
+
+<entry>
+<title type="html">crypto farm</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142003"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142003</id>
+<updated>2024-04-28 17:33:42</updated>
+<summary></summary>
+<category term="[&quot;farming&quot;,&quot;game&quot;,]"/>
+<author><name>bruh2137</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cryptofarm-3.png"/>
+</entry>
+
+<entry>
+<title type="html">bunny_on_grass</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142009</id>
+<updated>2024-04-29 03:37:16</updated>
+<summary></summary>
+<category term="[&quot;fun&quot;,]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bunny_on_grass-1.png"/>
+</entry>
+
+<entry>
+<title type="html">bgconway</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142014"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142014</id>
+<updated>2024-04-29 04:06:19</updated>
+<summary></summary>
+<category term="[&quot;conways&quot;,&quot;game&quot;,&quot;of&quot;,&quot;life&quot;,]"/>
+<author><name>IMLXH</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bgconway-0.png"/>
 </entry>
 
 </feed>
