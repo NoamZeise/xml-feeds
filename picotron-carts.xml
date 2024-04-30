@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-24 23:48:41</updated>
+<updated>2024-04-26 02:16:47</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PICOPHONE 7 tools in 1</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
-<updated>2024-04-24 23:48:41</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;tools&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-13.png"/>
-</entry>
-
-<entry>
-<title type="html">flapperDuck</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141885"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141885</id>
-<updated>2024-04-26 02:02:39</updated>
-<summary></summary>
-<category term="[&quot;bbs&quot;,&quot;picotron&quot;,&quot;cartridges&quot;,]"/>
-<author><name>playerMan</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flapperduck-0.png"/>
-</entry>
 
 <entry>
 <title type="html">VGFX (Vector Graphics Library and Editor)</title>
@@ -72,17 +50,6 @@
 </entry>
 
 <entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-04-27 15:50:58</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
-</entry>
-
-<entry>
 <title type="html">OkPal v1.0.1 (palette editor)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141308</id>
@@ -105,32 +72,32 @@
 </entry>
 
 <entry>
-<title type="html">Tiny Infinite Dungeons</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142004"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142004</id>
-<updated>2024-04-28 09:46:27</updated>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-04-29 13:55:32</updated>
 <summary></summary>
-<category term="[&quot;roguelike&quot;,]"/>
-<author><name>codemonkeyalx</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_teyedheze-0.png"/>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
 </entry>
 
 <entry>
-<title type="html">crypto farm</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142003"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142003</id>
-<updated>2024-04-28 17:33:42</updated>
+<title type="html">robotfindskitten</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142027"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142027</id>
+<updated>2024-04-29 14:04:10</updated>
 <summary></summary>
-<category term="[&quot;farming&quot;,&quot;game&quot;,]"/>
-<author><name>bruh2137</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cryptofarm-3.png"/>
+<category term="[&quot;robotfindskitten&quot;,&quot;ascii&quot;,]"/>
+<author><name>hodge</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rfk4picotron-1.png"/>
 </entry>
 
 <entry>
 <title type="html">bunny_on_grass</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142009</id>
-<updated>2024-04-29 03:37:16</updated>
+<updated>2024-04-29 16:25:19</updated>
 <summary></summary>
 <category term="[&quot;fun&quot;,]"/>
 <author><name>cheesemug</name></author>
@@ -138,14 +105,36 @@
 </entry>
 
 <entry>
+<title type="html">Multiplayer Paint</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141393"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141393</id>
+<updated>2024-04-29 16:39:33</updated>
+<summary></summary>
+<category term="[&quot;paint&quot;,&quot;canvas&quot;,&quot;online&quot;,]"/>
+<author><name>Toxel</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint_-2.png"/>
+</entry>
+
+<entry>
+<title type="html">crypto farm</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142003"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142003</id>
+<updated>2024-04-29 17:12:18</updated>
+<summary></summary>
+<category term="[&quot;farming&quot;,&quot;game&quot;,]"/>
+<author><name>bruh2137</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cryptofarm-7.png"/>
+</entry>
+
+<entry>
 <title type="html">bgconway</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142014"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142014</id>
-<updated>2024-04-29 04:06:19</updated>
+<updated>2024-04-29 23:11:34</updated>
 <summary></summary>
 <category term="[&quot;conways&quot;,&quot;game&quot;,&quot;of&quot;,&quot;life&quot;,]"/>
 <author><name>IMLXH</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bgconway-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bgconway-1.png"/>
 </entry>
 
 </feed>
