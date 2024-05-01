@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-26 02:16:47</updated>
+<updated>2024-04-26 15:59:18</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">VGFX (Vector Graphics Library and Editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141774"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141774</id>
-<updated>2024-04-26 02:16:47</updated>
-<summary></summary>
-<category term="[&quot;vector&quot;,&quot;art&quot;,&quot;editor&quot;,&quot;veditor&quot;,]"/>
-<author><name>SophieHoulden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_veditor-5.png"/>
-</entry>
-
-<entry>
-<title type="html">Clownvaders (Arcadotron Edition)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141787"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141787</id>
-<updated>2024-04-26 04:23:58</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;shooter&quot;,&quot;retro&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_clownvadersdeluxe-4.png"/>
-</entry>
-
-<entry>
-<title type="html">Birdhead (deluxe)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141054"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141054</id>
-<updated>2024-04-26 04:25:10</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;classic&quot;,&quot;original&quot;,&quot;game&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_foraruyum-8.png"/>
-</entry>
 
 <entry>
 <title type="html">GORGON</title>
@@ -58,28 +25,6 @@
 <category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
 <author><name>drakmaniso</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-4.png"/>
-</entry>
-
-<entry>
-<title type="html">Colour Reference 1.3</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141956</id>
-<updated>2024-04-28 07:59:09</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
-<author><name>MrScottyTay</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-3.png"/>
-</entry>
-
-<entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-04-29 13:55:32</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-2.png"/>
 </entry>
 
 <entry>
@@ -135,6 +80,39 @@
 <category term="[&quot;conways&quot;,&quot;game&quot;,&quot;of&quot;,&quot;life&quot;,]"/>
 <author><name>IMLXH</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bgconway-1.png"/>
+</entry>
+
+<entry>
+<title type="html">pct-2 Fantasy Console in Picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141821"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141821</id>
+<updated>2024-04-30 13:15:15</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>auex</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pct2-1.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-04-30 14:04:47</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Colour Reference 1.3</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141956</id>
+<updated>2024-04-30 18:34:51</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
+<author><name>MrScottyTay</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-3.png"/>
 </entry>
 
 </feed>
