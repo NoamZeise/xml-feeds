@@ -6,17 +6,6 @@
 <title>League of Legends Dev Blog</title>
 
 <entry>
-<title type="html">Dev Update: Arena, Lee Sin &amp; PvE Mode First-Look</title>
-<link href="https://www.leagueoflegends.com/https://www.youtube.com/watch?v=hEDhRqHLQjA"/>
-<id>https://www.leagueoflegends.com/https://www.youtube.com/watch?v=hEDhRqHLQjA</id>
-<updated>2024-04-08T15:00:00.000Z</updated>
-<summary></summary>
-<category term="Dev"/>
-<author><name></name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb75fd0749112faef/660f0e1a1da7d22e11af7ba3/04042024_Dev_Update_AndreiJeremy-3_WEB.jpg?quality=80"/>
-</entry>
-
-<entry>
 <title type="html">TL;DW: Arena, Lee Sin &amp; PvE Mode First-Look</title>
 <link href="https://www.leagueoflegends.com//en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"/>
 <id>https://www.leagueoflegends.com//en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/</id>
@@ -25,6 +14,17 @@
 <category term="Dev"/>
 <author><name>Riot Brightmoon, Meddler, Riot Cadmus, ChooChooTrain</name></author>
 <media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta855c5e25bad66f8/660db418fa138c31b487f2fc/040824_TLDW_Modes_LeeSin_PvE_Header.jpg?quality=80"/>
+</entry>
+
+<entry>
+<title type="html">/dev: Modernizing the Monk</title>
+<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/"/>
+<id>https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/</id>
+<updated>2024-04-08T15:00:00.000Z</updated>
+<summary></summary>
+<category term="Dev"/>
+<author><name>The ASU Team</name></author>
+<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt667992ff90ff4354/660de0cec8592e5c096f3c46/040824_LeeSin_ASU_Dev_Article_Header.jpg?quality=80"/>
 </entry>
 
 <entry>
