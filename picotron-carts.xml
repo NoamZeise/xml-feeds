@@ -1,53 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-01 09:31:56</updated>
+<updated>2024-05-02 10:40:47</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">VGFX (Vector Graphics Library and Editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141774"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141774</id>
-<updated>2024-05-01 09:31:56</updated>
-<summary></summary>
-<category term="[&quot;vector&quot;,&quot;art&quot;,&quot;editor&quot;,&quot;veditor&quot;,]"/>
-<author><name>SophieHoulden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_veditor-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Clownvaders (Arcadotron Edition)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141787"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141787</id>
-<updated>2024-05-01 12:02:47</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;shooter&quot;,&quot;retro&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_clownvadersdeluxe-5.png"/>
-</entry>
-
-<entry>
-<title type="html">Multiplayer Paint</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141393"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141393</id>
-<updated>2024-05-01 17:01:25</updated>
-<summary></summary>
-<category term="[&quot;paint&quot;,&quot;canvas&quot;,&quot;online&quot;,]"/>
-<author><name>Toxel</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint_-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Harmonic Series Animation</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142066"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142066</id>
-<updated>2024-05-01 17:27:52</updated>
-<summary></summary>
-<category term="[&quot;math&quot;,&quot;sound&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_harm_anim-0.png"/>
-</entry>
 
 <entry>
 <title type="html">ASTROYD</title>
@@ -69,17 +25,6 @@
 <category term="[&quot;utility&quot;,&quot;tools&quot;,]"/>
 <author><name>369369369</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-17.png"/>
-</entry>
-
-<entry>
-<title type="html">bunny_on_grass</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142009</id>
-<updated>2024-05-02 13:47:15</updated>
-<summary></summary>
-<category term="[&quot;fun&quot;,]"/>
-<author><name>cheesemug</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bunny_on_grass-1.png"/>
 </entry>
 
 <entry>
@@ -116,25 +61,69 @@
 </entry>
 
 <entry>
+<title type="html">PicoChan wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142113"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142113</id>
+<updated>2024-05-04 14:01:12</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>havocplague</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochanwallpaper-1.png"/>
+</entry>
+
+<entry>
+<title type="html">crypto farm</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142003"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142003</id>
+<updated>2024-05-04 15:45:30</updated>
+<summary></summary>
+<category term="[&quot;farming&quot;,&quot;game&quot;,]"/>
+<author><name>bruh2137</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cryptofarm-8.png"/>
+</entry>
+
+<entry>
 <title type="html">p8x8: convert PICO-8 carts to Picotron</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141107"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141107</id>
-<updated>2024-05-03 13:12:15</updated>
+<updated>2024-05-04 16:48:58</updated>
 <summary></summary>
 <category term="[&quot;tool&quot;,&quot;pico8&quot;,&quot;convert&quot;,]"/>
 <author><name>pancelor</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-6.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-7.png"/>
 </entry>
 
 <entry>
 <title type="html">Basic Raycasting Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142078"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142078</id>
-<updated>2024-05-04 00:59:53</updated>
+<updated>2024-05-04 20:16:24</updated>
 <summary></summary>
 <category term="[&quot;cool&quot;,&quot;help&quot;,&quot;3d&quot;,&quot;fov&quot;,]"/>
 <author><name>cheesemug</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ray-0.png"/>
+</entry>
+
+<entry>
+<title type="html">bunny_on_grass</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142009</id>
+<updated>2024-05-04 20:34:51</updated>
+<summary></summary>
+<category term="[&quot;fun&quot;,]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bunny_on_grass-1.png"/>
+</entry>
+
+<entry>
+<title type="html">DVD Bouncing screensaver/wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142118"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142118</id>
+<updated>2024-05-05 04:28:27</updated>
+<summary></summary>
+<category term="[&quot;dvd&quot;,&quot;screensaver&quot;,&quot;picotron&quot;,]"/>
+<author><name>Pey</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dvdbounce-0.png"/>
 </entry>
 
 </feed>
