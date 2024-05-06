@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-02 10:40:47</updated>
+<updated>2024-05-02 12:35:30</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">ASTROYD</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141906</id>
-<updated>2024-05-02 10:40:47</updated>
-<summary></summary>
-<category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
-<author><name>wanp</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-2.png"/>
-</entry>
 
 <entry>
 <title type="html">PICOPHONE 7 tools in 1</title>
@@ -124,6 +113,17 @@
 <category term="[&quot;dvd&quot;,&quot;screensaver&quot;,&quot;picotron&quot;,]"/>
 <author><name>Pey</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dvdbounce-0.png"/>
+</entry>
+
+<entry>
+<title type="html">ASTROYD</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141906</id>
+<updated>2024-05-05 18:59:27</updated>
+<summary></summary>
+<category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
+<author><name>wanp</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-2.png"/>
 </entry>
 
 </feed>
