@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-02 12:35:30</updated>
+<updated>2024-05-03 07:19:49</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PICOPHONE 7 tools in 1</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
-<updated>2024-05-02 12:35:30</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;tools&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-17.png"/>
-</entry>
-
-<entry>
-<title type="html">Dig Deeper 0.1</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142083"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142083</id>
-<updated>2024-05-02 18:39:57</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>galleywest</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yakibayinu-0.png"/>
-</entry>
 
 <entry>
 <title type="html">OkPal v1.0.2 (palette editor)</title>
@@ -124,6 +102,50 @@
 <category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
 <author><name>wanp</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Gridnight Live Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140896"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140896</id>
+<updated>2024-05-06 09:26:59</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,&quot;live&quot;,&quot;grid&quot;,&quot;purple&quot;,]"/>
+<author><name>cubee</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gridnight_wallpaper-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Solitaire Suite</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141288</id>
+<updated>2024-05-06 16:29:03</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-2.png"/>
+</entry>
+
+<entry>
+<title type="html">DENIS KOGNE (deluxe)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142138"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142138</id>
+<updated>2024-05-06 17:28:35</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;picotron&quot;,&quot;platformer&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deniskognedel-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Utility: &apos;yotta&apos; command v1.1, dependency and package manager</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140833"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140833</id>
+<updated>2024-05-07 04:22:53</updated>
+<summary></summary>
+<category term="[&quot;system&quot;,&quot;picotron&quot;,&quot;utility&quot;,&quot;management&quot;,]"/>
+<author><name>ahrotahn</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yotta-5.png"/>
 </entry>
 
 </feed>
