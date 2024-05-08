@@ -6,17 +6,6 @@
 <title>League of Legends Dev Blog</title>
 
 <entry>
-<title type="html">TL;DW: Arena, Lee Sin &amp; PvE Mode First-Look</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/</id>
-<updated>2024-04-08T15:00:00.000Z</updated>
-<summary></summary>
-<category term="Dev"/>
-<author><name>Riot Brightmoon, Meddler, Riot Cadmus, ChooChooTrain</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta855c5e25bad66f8/660db418fa138c31b487f2fc/040824_TLDW_Modes_LeeSin_PvE_Header.jpg?quality=80"/>
-</entry>
-
-<entry>
 <title type="html">/dev: Modernizing the Monk</title>
 <link href="https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/"/>
 <id>https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/</id>
@@ -69,6 +58,17 @@
 <category term="Dev"/>
 <author><name>Riot Auberaun, Riot Zhanos, Scaz</name></author>
 <media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd2a5869185cafd93/663007ba528fc165e955e08b/LOL_PROMOART_6.jpg?quality=80"/>
+</entry>
+
+<entry>
+<title type="html">/dev: Split 2 Ranked Update</title>
+<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-split-2-ranked-update/"/>
+<id>https://www.leagueoflegends.com//en-us/news/dev/dev-split-2-ranked-update/</id>
+<updated>2024-05-07T17:00:00.000Z</updated>
+<summary></summary>
+<category term="Dev"/>
+<author><name>Riot Phroxzon</name></author>
+<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltcff29dea031897e5/6633d31f8a4a13365afe4f11/14_10_dev_split_2_ranked_update_banner.jpg?quality=80"/>
 </entry>
 
 </feed>
