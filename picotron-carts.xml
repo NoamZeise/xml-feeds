@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-07 20:07:34</updated>
+<updated>2024-05-08 00:35:55</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">ASTROYD</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141906</id>
-<updated>2024-05-07 20:07:34</updated>
-<summary></summary>
-<category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
-<author><name>wanp</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-2.png"/>
-</entry>
 
 <entry>
 <title type="html">PicoChan wallpaper</title>
@@ -138,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">Minesweeper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142206"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142206</id>
-<updated>2024-05-11 01:31:40</updated>
-<summary></summary>
-<category term="[&quot;minesweeper&quot;,]"/>
-<author><name>pck404</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweeper64-1.png"/>
-</entry>
-
-<entry>
 <title type="html">3D Maze</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142164"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142164</id>
@@ -157,6 +135,39 @@
 <category term="[&quot;picotron&quot;,&quot;3d&quot;,&quot;demo&quot;,]"/>
 <author><name>ozjerry</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_puniyasaba-0.png"/>
+</entry>
+
+<entry>
+<title type="html">ASTROYD</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141906</id>
+<updated>2024-05-11 10:57:53</updated>
+<summary></summary>
+<category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
+<author><name>wanp</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_astroyd-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Minesweeper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142206"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142206</id>
+<updated>2024-05-11 14:33:12</updated>
+<summary></summary>
+<category term="[&quot;minesweeper&quot;,&quot;classic&quot;,&quot;game&quot;,&quot;picotron&quot;,]"/>
+<author><name>pck404</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweeper64-4.png"/>
+</entry>
+
+<entry>
+<title type="html">milkiecolour wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142208"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142208</id>
+<updated>2024-05-11 17:14:15</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,&quot;pink&quot;,&quot;girl&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_milkiecolour-2.png"/>
 </entry>
 
 </feed>
