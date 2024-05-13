@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-08 00:35:55</updated>
+<updated>2024-05-08 17:51:57</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PicoChan wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142113"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142113</id>
-<updated>2024-05-08 00:35:55</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>havocplague</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochanwallpaper-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Utility: &apos;yotta&apos; command v1.1, dependency and package manager</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140833"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140833</id>
-<updated>2024-05-08 00:57:36</updated>
-<summary></summary>
-<category term="[&quot;system&quot;,&quot;picotron&quot;,&quot;utility&quot;,&quot;management&quot;,]"/>
-<author><name>ahrotahn</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yotta-5.png"/>
-</entry>
 
 <entry>
 <title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
@@ -116,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Picrossotron v1.2</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140875"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140875</id>
-<updated>2024-05-10 22:48:29</updated>
-<summary></summary>
-<category term="[&quot;picross&quot;,&quot;picotron&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picrossotron-5.png"/>
-</entry>
-
-<entry>
 <title type="html">3D Maze</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142164"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142164</id>
@@ -168,6 +135,50 @@
 <category term="[&quot;wallpaper&quot;,&quot;pink&quot;,&quot;girl&quot;,]"/>
 <author><name>sugarflower</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_milkiecolour-2.png"/>
+</entry>
+
+<entry>
+<title type="html">bunny_on_grass</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142009</id>
+<updated>2024-05-12 08:22:53</updated>
+<summary></summary>
+<category term="[&quot;fun&quot;,]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bunny_on_grass-1.png"/>
+</entry>
+
+<entry>
+<title type="html">SLATE - Window based code editor</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140703"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140703</id>
+<updated>2024-05-12 20:11:01</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;editor&quot;,&quot;code&quot;,&quot;programming&quot;,]"/>
+<author><name>scrapSavage</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slate-7.png"/>
+</entry>
+
+<entry>
+<title type="html">picocalendar</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142243</id>
+<updated>2024-05-12 22:06:19</updated>
+<summary></summary>
+<category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
+<author><name>pck404</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Picrossotron v1.2</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140875"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140875</id>
+<updated>2024-05-12 22:14:20</updated>
+<summary></summary>
+<category term="[&quot;picross&quot;,&quot;picotron&quot;,]"/>
+<author><name>fantasticfox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picrossotron-5.png"/>
 </entry>
 
 </feed>
