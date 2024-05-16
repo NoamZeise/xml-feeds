@@ -171,17 +171,6 @@
 </entry>
 
 <entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-05-15 00:20:16</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
-</entry>
-
-<entry>
 <title type="html">Procedural Dungeon Generator</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142259"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142259</id>
@@ -190,6 +179,17 @@
 <category term="[&quot;picotron&quot;,&quot;procedural&quot;,&quot;demo&quot;,]"/>
 <author><name>ozjerry</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_animdungen-0.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-05-16 02:01:12</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
 </entry>
 
 </feed>
