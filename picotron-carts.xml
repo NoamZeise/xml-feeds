@@ -192,4 +192,15 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
 </entry>
 
+<entry>
+<title type="html">Sound of Quicksort</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-05-17 03:06:40</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sound_of_quicksort-0.png"/>
+</entry>
+
 </feed>
