@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-09 05:53:21</updated>
+<updated>2024-05-09 18:50:26</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">crypto farm</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142003"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142003</id>
-<updated>2024-05-09 05:53:21</updated>
-<summary></summary>
-<category term="[&quot;farming&quot;,&quot;game&quot;,]"/>
-<author><name>bruh2137</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cryptofarm-8.png"/>
-</entry>
 
 <entry>
 <title type="html">Picoloon</title>
@@ -171,17 +160,6 @@
 </entry>
 
 <entry>
-<title type="html">Procedural Dungeon Generator</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142259"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142259</id>
-<updated>2024-05-15 03:26:28</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;procedural&quot;,&quot;demo&quot;,]"/>
-<author><name>ozjerry</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_animdungen-0.png"/>
-</entry>
-
-<entry>
 <title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141913</id>
@@ -212,6 +190,28 @@
 <category term="[&quot;make&quot;,&quot;share&quot;,&quot;fun&quot;,]"/>
 <author><name>cheesemug</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_musicmaker-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Procedural Dungeon Generator</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142259"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142259</id>
+<updated>2024-05-19 00:43:30</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;procedural&quot;,&quot;demo&quot;,]"/>
+<author><name>ozjerry</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_animdungen-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142329</id>
+<updated>2024-05-19 00:50:58</updated>
+<summary></summary>
+<category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
+<author><name>SophieHoulden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slimepires-0.png"/>
 </entry>
 
 </feed>
