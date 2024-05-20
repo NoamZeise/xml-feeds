@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-09 18:50:26</updated>
+<updated>2024-05-09 21:17:48</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picoloon</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142183"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142183</id>
-<updated>2024-05-09 18:50:26</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>Baulers</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picoloon-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Desktop Cat</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140849"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140849</id>
-<updated>2024-05-09 20:31:54</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,&quot;desktop&quot;,&quot;desktopwallpaper&quot;,&quot;animatedwallpaper&quot;,]"/>
-<author><name>AntiBrain</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_desktop_cat-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Importing Code From Other Lua Files</title>
@@ -171,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">Sound of Quicksort</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2024-05-17 03:06:40</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sound_of_quicksort-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Musicmaker</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142312"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142312</id>
@@ -204,14 +171,36 @@
 </entry>
 
 <entry>
+<title type="html">Burn</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142345"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142345</id>
+<updated>2024-05-19 14:38:21</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>JimboTheGod</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_burn_raz-0.png"/>
+</entry>
+
+<entry>
 <title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142329</id>
-<updated>2024-05-19 00:50:58</updated>
+<updated>2024-05-19 18:27:11</updated>
 <summary></summary>
 <category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
 <author><name>SophieHoulden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slimepires-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Sound of Quicksort</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-05-20 03:17:20</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sound_of_quicksort-1.png"/>
 </entry>
 
 </feed>
