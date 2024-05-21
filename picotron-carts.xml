@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-09 21:17:48</updated>
+<updated>2024-05-10 07:58:41</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Importing Code From Other Lua Files</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140733"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140733</id>
-<updated>2024-05-09 21:17:48</updated>
-<summary></summary>
-<category term="[&quot;dependencies&quot;,&quot;include&quot;,&quot;import&quot;,&quot;lua&quot;,]"/>
-<author><name>Maeve</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/51001/Screenshot 2024-03-16 105634.png"/>
-</entry>
-
-<entry>
-<title type="html">Arisanna Workshop</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142191"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142191</id>
-<updated>2024-05-09 23:40:13</updated>
-<summary></summary>
-<category term="[&quot;management&quot;,]"/>
-<author><name>FabricioKarim77</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arisannaws-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Colour Reference 3.0</title>
@@ -201,6 +179,28 @@
 <category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sound_of_quicksort-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Workstation Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142368"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142368</id>
+<updated>2024-05-20 22:54:13</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>misc</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_workstation-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Solitaire Suite</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141288</id>
+<updated>2024-05-21 04:43:31</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-2.png"/>
 </entry>
 
 </feed>
