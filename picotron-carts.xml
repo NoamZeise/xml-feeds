@@ -160,17 +160,6 @@
 </entry>
 
 <entry>
-<title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142329</id>
-<updated>2024-05-19 18:27:11</updated>
-<summary></summary>
-<category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
-<author><name>SophieHoulden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slimepires-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Sound of Quicksort</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142305</id>
@@ -182,17 +171,6 @@
 </entry>
 
 <entry>
-<title type="html">Picotron Workstation Wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142368"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142368</id>
-<updated>2024-05-20 22:54:13</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>misc</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_workstation-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Picotron Solitaire Suite</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141288</id>
@@ -201,6 +179,28 @@
 <category term="[&quot;solitaire&quot;,]"/>
 <author><name>Werxzy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142329</id>
+<updated>2024-05-21 08:34:43</updated>
+<summary></summary>
+<category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
+<author><name>SophieHoulden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slimepires-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Workstation Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142368"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142368</id>
+<updated>2024-05-21 22:46:19</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>misc</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_workstation-0.png"/>
 </entry>
 
 </feed>
