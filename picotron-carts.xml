@@ -1,37 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-05-10 07:58:41</updated>
+<updated>2024-06-04 06:52:04</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
 
 <entry>
-<title type="html">Colour Reference 3.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141956"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141956</id>
-<updated>2024-05-10 07:58:41</updated>
+<title type="html">picocalendar</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142243</id>
+<updated>2024-06-04 06:52:04</updated>
 <summary></summary>
-<category term="[&quot;utility&quot;,&quot;widget&quot;,&quot;colour&quot;,&quot;color&quot;,]"/>
-<author><name>MrScottyTay</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_colours-10.png"/>
+<category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
+<author><name>pck404</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-2.png"/>
 </entry>
 
 <entry>
-<title type="html">neofetch</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141070"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141070</id>
-<updated>2024-05-10 17:27:31</updated>
+<title type="html">boxing (now with single-player support)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142441"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142441</id>
+<updated>2024-06-04 10:54:05</updated>
+<summary></summary>
+<category term="[&quot;fun&quot;,&quot;multiplayer&quot;,&quot;boxing&quot;,&quot;dash&quot;,]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_boxing-2.png"/>
+</entry>
+
+<entry>
+<title type="html">DENIS KOGNE (deluxe)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142138"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142138</id>
+<updated>2024-06-06 12:42:53</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;picotron&quot;,&quot;platformer&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deniskognedel-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Popup Notifications</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142511"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142511</id>
+<updated>2024-06-06 12:58:48</updated>
 <summary></summary>
 <category term="[]"/>
-<author><name>ibll</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neofetch-0.png"/>
+<author><name>fpekal</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_popup_demo-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Rain, my first picotron project!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142545"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142545</id>
+<updated>2024-06-06 15:19:28</updated>
+<summary></summary>
+<category term="[&quot;beginner&quot;,]"/>
+<author><name>Sigmoidle</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_resuwawaya-2.png"/>
 </entry>
 
 <entry>
 <title type="html">ASTROYD</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141906"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141906</id>
-<updated>2024-05-11 10:57:53</updated>
+<updated>2024-06-06 15:22:54</updated>
 <summary></summary>
 <category term="[&quot;asteroids&quot;,&quot;arcade&quot;,&quot;retro&quot;,]"/>
 <author><name>wanp</name></author>
@@ -39,153 +72,10 @@
 </entry>
 
 <entry>
-<title type="html">Minesweeper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142206"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142206</id>
-<updated>2024-05-11 14:33:12</updated>
-<summary></summary>
-<category term="[&quot;minesweeper&quot;,&quot;classic&quot;,&quot;game&quot;,&quot;picotron&quot;,]"/>
-<author><name>pck404</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweeper64-4.png"/>
-</entry>
-
-<entry>
-<title type="html">milkiecolour wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142208"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142208</id>
-<updated>2024-05-11 17:14:15</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,&quot;pink&quot;,&quot;girl&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_milkiecolour-2.png"/>
-</entry>
-
-<entry>
-<title type="html">picocalendar</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142243</id>
-<updated>2024-05-12 22:06:19</updated>
-<summary></summary>
-<category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
-<author><name>pck404</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Picrossotron v1.2</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140875"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140875</id>
-<updated>2024-05-12 22:14:20</updated>
-<summary></summary>
-<category term="[&quot;picross&quot;,&quot;picotron&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picrossotron-5.png"/>
-</entry>
-
-<entry>
-<title type="html">3D Maze</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142164"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142164</id>
-<updated>2024-05-13 14:20:32</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;3d&quot;,&quot;demo&quot;,]"/>
-<author><name>ozjerry</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_puniyasaba-0.png"/>
-</entry>
-
-<entry>
-<title type="html">SLATE - Window based code editor</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140703"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140703</id>
-<updated>2024-05-13 15:21:19</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;editor&quot;,&quot;code&quot;,&quot;programming&quot;,]"/>
-<author><name>scrapSavage</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slate-7.png"/>
-</entry>
-
-<entry>
-<title type="html">bunny_on_grass</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142009"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142009</id>
-<updated>2024-05-13 16:12:52</updated>
-<summary></summary>
-<category term="[&quot;fun&quot;,]"/>
-<author><name>cheesemug</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bunny_on_grass-1.png"/>
-</entry>
-
-<entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-05-16 02:01:12</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Musicmaker</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142312"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142312</id>
-<updated>2024-05-17 10:23:39</updated>
-<summary></summary>
-<category term="[&quot;make&quot;,&quot;share&quot;,&quot;fun&quot;,]"/>
-<author><name>cheesemug</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_musicmaker-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Procedural Dungeon Generator</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142259"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142259</id>
-<updated>2024-05-19 00:43:30</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;procedural&quot;,&quot;demo&quot;,]"/>
-<author><name>ozjerry</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_animdungen-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Burn</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142345"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142345</id>
-<updated>2024-05-19 14:38:21</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>JimboTheGod</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_burn_raz-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Sound of Quicksort</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2024-05-20 03:17:20</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sound_of_quicksort-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Picotron Solitaire Suite</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141288</id>
-<updated>2024-05-21 04:43:31</updated>
-<summary></summary>
-<category term="[&quot;solitaire&quot;,]"/>
-<author><name>Werxzy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-2.png"/>
-</entry>
-
-<entry>
 <title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142329</id>
-<updated>2024-05-21 08:34:43</updated>
+<updated>2024-06-06 17:16:07</updated>
 <summary></summary>
 <category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
 <author><name>SophieHoulden</name></author>
@@ -193,14 +83,91 @@
 </entry>
 
 <entry>
-<title type="html">Picotron Workstation Wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142368"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142368</id>
-<updated>2024-05-21 22:46:19</updated>
+<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
+<updated>2024-06-06 22:41:51</updated>
 <summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>misc</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_workstation-0.png"/>
+<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
+<author><name>hwd2002</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-2.png"/>
+</entry>
+
+<entry>
+<title type="html">3D Rendering with depth buffer!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142573"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142573</id>
+<updated>2024-06-07 04:51:23</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;3d&quot;,&quot;depth&quot;,]"/>
+<author><name>Soupster</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dbuf_test-2.png"/>
+</entry>
+
+<entry>
+<title type="html">RGB Transition Effect</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142630"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142630</id>
+<updated>2024-06-08 15:53:45</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,]"/>
+<author><name>Soupster</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rgb_transition-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Finit</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142709"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142709</id>
+<updated>2024-06-15 08:27:25</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_finit-0.png"/>
+</entry>
+
+<entry>
+<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
+<updated>2024-06-15 17:27:49</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-06-16 13:59:44</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
+</entry>
+
+<entry>
+<title type="html">Vectorized FFT</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142736"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142736</id>
+<updated>2024-06-17 03:02:37</updated>
+<summary></summary>
+<category term="[&quot;fft&quot;,&quot;dsp&quot;,&quot;audio&quot;,]"/>
+<author><name>luchak</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_vectorized_fft-1.png"/>
+</entry>
+
+<entry>
+<title type="html">tensum</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
+<updated>2024-06-17 09:58:31</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-1.png"/>
 </entry>
 
 </feed>

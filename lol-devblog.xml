@@ -1,74 +1,128 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-08T15:00:00.000Z</updated>
+<updated>2024-03-29T15:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
 
 <entry>
+<title type="html">Devs Spill the Beans: Skarner’s New Lore</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=bh0t_Ba3HRw"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=bh0t_Ba3HRw</id>
+<updated>2024-03-29T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
 <title type="html">/dev: Modernizing the Monk</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/dev-modernizing-the-monk/</id>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-modernizing-the-monk/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-modernizing-the-monk/</id>
 <updated>2024-04-08T15:00:00.000Z</updated>
 <summary></summary>
-<category term="Dev"/>
-<author><name>The ASU Team</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt667992ff90ff4354/660de0cec8592e5c096f3c46/040824_LeeSin_ASU_Dev_Article_Header.jpg?quality=80"/>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">TL;DW: Arena, Lee Sin &amp; PvE Mode First-Look</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/tl-dw-arena-lee-sin-pve-mode-first-look/</id>
+<updated>2024-04-08T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">/dev: Ranked Rewards in 2024</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-rewards-in-2024/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-rewards-in-2024/</id>
+<updated>2024-04-08T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Arena, Lee Sin &amp; PvE Mode First-Look</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=hEDhRqHLQjA"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=hEDhRqHLQjA</id>
+<updated>2024-04-08T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
 </entry>
 
 <entry>
 <title type="html">/dev: Vanguard x LoL</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-vanguard-x-lol/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/dev-vanguard-x-lol/</id>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol/</id>
 <updated>2024-04-11T17:00:00.000Z</updated>
 <summary></summary>
-<category term="Dev"/>
-<author><name>mirageofpenguins</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltb95aae4e6339ccac/66172d22ab1db5a3446599d6/Vanguard_T2.jpg?quality=80"/>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
 </entry>
 
 <entry>
 <title type="html">/dev: Arena Round Three</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-arena-round-three/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/dev-arena-round-three/</id>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-arena-round-three/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-arena-round-three/</id>
 <updated>2024-04-15T15:00:00.000Z</updated>
 <summary></summary>
-<category term="Dev"/>
-<author><name>Riot Cadmus</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltfcd3969baacceec3/6616b36bca5a9779b3556a54/041524_LoL_MSIE24_001_Hub_ArenaDevBlog_Header.jpg?quality=80"/>
-</entry>
-
-<entry>
-<title type="html">Talking Tactics: Creating Kobuko</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/talking-tactics-creating-kobuko/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/talking-tactics-creating-kobuko/</id>
-<updated>2024-04-25T16:00:00.000Z</updated>
-<summary></summary>
-<category term="Dev"/>
-<author><name>SMALL BABY PANDA</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt173fac2b0ee849a0/66294acf24e1814a28acedc6/042524_Talking_Tactics_Kobuko_Banner.jpg?quality=80"/>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
 </entry>
 
 <entry>
 <title type="html">Split 2 Gameplay Preview</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/split-2-gameplay-preview/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/split-2-gameplay-preview/</id>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/split-2-gameplay-preview/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/split-2-gameplay-preview/</id>
 <updated>2024-04-30T18:30:00.000Z</updated>
 <summary></summary>
-<category term="Dev"/>
-<author><name>Riot Auberaun, Riot Zhanos, Scaz</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltd2a5869185cafd93/663007ba528fc165e955e08b/LOL_PROMOART_6.jpg?quality=80"/>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
 </entry>
 
 <entry>
 <title type="html">/dev: Split 2 Ranked Update</title>
-<link href="https://www.leagueoflegends.com//en-us/news/dev/dev-split-2-ranked-update/"/>
-<id>https://www.leagueoflegends.com//en-us/news/dev/dev-split-2-ranked-update/</id>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-split-two-ranked-update/"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-split-two-ranked-update/</id>
 <updated>2024-05-07T17:00:00.000Z</updated>
 <summary></summary>
-<category term="Dev"/>
-<author><name>Riot Phroxzon</name></author>
-<media:thumbnail xmlns:media="https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltcff29dea031897e5/6633d31f8a4a13365afe4f11/14_10_dev_split_2_ranked_update_banner.jpg?quality=80"/>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Gameplay, Esports &amp; Arcane</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=6zOUaLKqwaA"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=6zOUaLKqwaA</id>
+<updated>2024-06-11T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">TL;DW: Gameplay, Esports &amp; Arcane Dev Update</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-gameplay-esports-arcane-dev-update"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-gameplay-esports-arcane-dev-update</id>
+<updated>2024-06-11T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
+</entry>
+
+<entry>
+<title type="html">We Asked TFT Devs Your Burning Questions</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=VSibgiR6MwU"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=VSibgiR6MwU</id>
+<updated>2024-06-13T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+<media:thumbnail xmlns:media="data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg"/>"/>
 </entry>
 
 </feed>
