@@ -149,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">tensum</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
-<updated>2024-06-17 09:58:31</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-1.png"/>
-</entry>
-
-<entry>
 <title type="html">DENIS KOGNE (deluxe)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142138"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142138</id>
@@ -168,6 +157,17 @@
 <category term="[&quot;arcade&quot;,&quot;picotron&quot;,&quot;platformer&quot;,]"/>
 <author><name>BGelais</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deniskognedel-1.png"/>
+</entry>
+
+<entry>
+<title type="html">tensum</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
+<updated>2024-06-19 18:16:44</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-1.png"/>
 </entry>
 
 </feed>
