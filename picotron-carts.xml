@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-04 06:52:04</updated>
+<updated>2024-06-04 10:54:05</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">picocalendar</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142243</id>
-<updated>2024-06-04 06:52:04</updated>
-<summary></summary>
-<category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
-<author><name>pck404</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-2.png"/>
-</entry>
 
 <entry>
 <title type="html">boxing (now with single-player support)</title>
@@ -160,7 +149,7 @@
 </entry>
 
 <entry>
-<title type="html">tensum</title>
+<title type="html">TenSum - Cozy Counting</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142730</id>
 <updated>2024-06-19 18:16:44</updated>
@@ -168,6 +157,17 @@
 <category term="[]"/>
 <author><name>taxicomics</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-1.png"/>
+</entry>
+
+<entry>
+<title type="html">GORGON</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141948</id>
+<updated>2024-06-20 20:41:35</updated>
+<summary></summary>
+<category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-1.png"/>
 </entry>
 
 </feed>
