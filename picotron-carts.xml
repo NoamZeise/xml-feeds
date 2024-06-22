@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-04 10:54:05</updated>
+<updated>2024-06-06 12:58:48</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">boxing (now with single-player support)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142441"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142441</id>
-<updated>2024-06-04 10:54:05</updated>
-<summary></summary>
-<category term="[&quot;fun&quot;,&quot;multiplayer&quot;,&quot;boxing&quot;,&quot;dash&quot;,]"/>
-<author><name>cheesemug</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_boxing-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Popup Notifications</title>
@@ -116,17 +105,6 @@
 </entry>
 
 <entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-06-16 13:59:44</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
-</entry>
-
-<entry>
 <title type="html">Vectorized FFT</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142736"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142736</id>
@@ -160,14 +138,47 @@
 </entry>
 
 <entry>
+<title type="html">Localize System</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142794"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142794</id>
+<updated>2024-06-21 15:00:50</updated>
+<summary></summary>
+<category term="[&quot;tool&quot;,]"/>
+<author><name>VinnyRules</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_localsys-0.png"/>
+</entry>
+
+<entry>
 <title type="html">GORGON</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141948</id>
-<updated>2024-06-20 20:41:35</updated>
+<updated>2024-06-21 15:39:00</updated>
 <summary></summary>
 <category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
 <author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-1.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-2.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-06-21 22:07:20</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
+</entry>
+
+<entry>
+<title type="html">Mod Manager for Picotron Workstation OS</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142806"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142806</id>
+<updated>2024-06-22 04:31:37</updated>
+<summary></summary>
+<category term="[&quot;mod&quot;,]"/>
+<author><name>VinnyRules</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_modman-0.png"/>
 </entry>
 
 </feed>
