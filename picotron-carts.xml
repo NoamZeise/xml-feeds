@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-06 12:58:48</updated>
+<updated>2024-06-06 15:19:28</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Popup Notifications</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142511"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142511</id>
-<updated>2024-06-06 12:58:48</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>fpekal</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_popup_demo-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Rain, my first picotron project!</title>
@@ -160,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-06-21 22:07:20</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
-</entry>
-
-<entry>
 <title type="html">Mod Manager for Picotron Workstation OS</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142806"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142806</id>
@@ -179,6 +157,28 @@
 <category term="[&quot;mod&quot;,]"/>
 <author><name>VinnyRules</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_modman-0.png"/>
+</entry>
+
+<entry>
+<title type="html">PELOGEN_CATCH(3Drender test)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142815"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142815</id>
+<updated>2024-06-22 14:00:12</updated>
+<summary></summary>
+<category term="[&quot;3d&quot;,&quot;polygon&quot;,&quot;trifill&quot;,]"/>
+<author><name>shiftalow</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pelogen_catch-0.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-06-22 18:08:31</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
 </entry>
 
 </feed>
