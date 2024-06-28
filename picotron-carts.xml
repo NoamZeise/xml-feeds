@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-07 04:51:23</updated>
+<updated>2024-06-08 15:53:45</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">3D Rendering with depth buffer!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142573"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142573</id>
-<updated>2024-06-07 04:51:23</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;3d&quot;,&quot;depth&quot;,]"/>
-<author><name>Soupster</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dbuf_test-2.png"/>
-</entry>
 
 <entry>
 <title type="html">RGB Transition Effect</title>
@@ -160,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">waterfall demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141824"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141824</id>
-<updated>2024-06-25 13:55:36</updated>
-<summary></summary>
-<category term="[&quot;demo&quot;,&quot;particles&quot;,&quot;ecs&quot;,]"/>
-<author><name>snowkittykira</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ecs_waterfall-0.png"/>
-</entry>
-
-<entry>
 <title type="html">punkt</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142864"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142864</id>
@@ -179,6 +157,28 @@
 <category term="[&quot;game&quot;,]"/>
 <author><name>sugarflower</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_punkt-1.png"/>
+</entry>
+
+<entry>
+<title type="html">waterfall demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141824"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141824</id>
+<updated>2024-06-27 12:29:11</updated>
+<summary></summary>
+<category term="[&quot;demo&quot;,&quot;particles&quot;,&quot;ecs&quot;,]"/>
+<author><name>snowkittykira</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ecs_waterfall-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142881"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142881</id>
+<updated>2024-06-27 23:15:54</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Basilingus</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yumenikkiware-0.png"/>
 </entry>
 
 </feed>
