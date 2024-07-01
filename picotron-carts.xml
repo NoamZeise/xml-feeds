@@ -171,17 +171,6 @@
 </entry>
 
 <entry>
-<title type="html">Arc System Loader</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
-<updated>2024-06-28 12:37:18</updated>
-<summary></summary>
-<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
-<author><name>ArcticFox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Miditron - The first midi to picotron conversion tool!</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141566"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141566</id>
@@ -190,6 +179,17 @@
 <category term="[&quot;midi&quot;,&quot;music&quot;,&quot;conversion&quot;,&quot;sfx&quot;,]"/>
 <author><name>raulboo</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/media/54921/miditron_01.p64.png"/>
+</entry>
+
+<entry>
+<title type="html">Arc System Loader</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
+<updated>2024-06-30 20:31:02</updated>
+<summary></summary>
+<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
+<author><name>ArcticFox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
 </entry>
 
 </feed>
