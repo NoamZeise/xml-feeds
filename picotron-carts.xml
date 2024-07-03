@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">OkPal v1.0.2 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-06-25 13:54:32</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
-</entry>
-
-<entry>
 <title type="html">punkt</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142864"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142864</id>
@@ -201,6 +190,17 @@
 <category term="[&quot;framework&quot;,]"/>
 <author><name>melodyl</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_justaport-0.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.2 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-07-02 14:52:36</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
 </entry>
 
 </feed>
