@@ -192,4 +192,15 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_earth-1.png"/>
 </entry>
 
+<entry>
+<title type="html">Eclypse demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141129"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141129</id>
+<updated>2024-07-05 13:54:04</updated>
+<summary></summary>
+<category term="[&quot;wallpapers&quot;,&quot;screensavers&quot;,&quot;demos&quot;,]"/>
+<author><name>josiebreck</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eclypse-0.png"/>
+</entry>
+
 </feed>
