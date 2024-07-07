@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-18 16:26:53</updated>
+<updated>2024-06-19 18:16:44</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">DENIS KOGNE (deluxe)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142138"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142138</id>
-<updated>2024-06-18 16:26:53</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;picotron&quot;,&quot;platformer&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deniskognedel-1.png"/>
-</entry>
 
 <entry>
 <title type="html">TenSum - Cozy Counting</title>
@@ -69,17 +58,6 @@
 <category term="[&quot;3d&quot;,&quot;polygon&quot;,&quot;trifill&quot;,]"/>
 <author><name>shiftalow</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pelogen_catch-0.png"/>
-</entry>
-
-<entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-06-22 18:08:31</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-6.png"/>
 </entry>
 
 <entry>
@@ -201,6 +179,17 @@
 <category term="[&quot;wallpapers&quot;,&quot;screensavers&quot;,&quot;demos&quot;,]"/>
 <author><name>josiebreck</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eclypse-0.png"/>
+</entry>
+
+<entry>
+<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
+<updated>2024-07-06 17:26:21</updated>
+<summary></summary>
+<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
+<author><name>ssergiorodriguezz</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-7.png"/>
 </entry>
 
 </feed>
