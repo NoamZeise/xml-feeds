@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-19 18:16:44</updated>
+<updated>2024-06-21 15:39:00</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">TenSum - Cozy Counting</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
-<updated>2024-06-19 18:16:44</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Localize System</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142794"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142794</id>
-<updated>2024-06-21 15:00:50</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,]"/>
-<author><name>VinnyRules</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_localsys-0.png"/>
-</entry>
 
 <entry>
 <title type="html">GORGON</title>
@@ -190,6 +168,17 @@
 <category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
 <author><name>drakmaniso</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
+</entry>
+
+<entry>
+<title type="html">cyntron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143072"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143072</id>
+<updated>2024-07-10 13:30:44</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;pixelart&quot;,&quot;animated&quot;,&quot;wallpaper&quot;,]"/>
+<author><name>EPUJelly</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cyntron-0.png"/>
 </entry>
 
 </feed>
