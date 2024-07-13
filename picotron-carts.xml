@@ -28,17 +28,6 @@
 </entry>
 
 <entry>
-<title type="html">Spiro</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
-<updated>2024-06-23 17:45:35</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>SquidLight</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-1.png"/>
-</entry>
-
-<entry>
 <title type="html">punkt</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142864"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142864</id>
@@ -168,6 +157,17 @@
 <category term="[&quot;picotron&quot;,&quot;pixelart&quot;,&quot;animated&quot;,&quot;wallpaper&quot;,]"/>
 <author><name>EPUJelly</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cyntron-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Spiro</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
+<updated>2024-07-12 19:01:40</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>SquidLight</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
 </entry>
 
 </feed>
