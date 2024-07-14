@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-22 04:31:37</updated>
+<updated>2024-06-26 15:18:48</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Mod Manager for Picotron Workstation OS</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142806"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142806</id>
-<updated>2024-06-22 04:31:37</updated>
-<summary></summary>
-<category term="[&quot;mod&quot;,]"/>
-<author><name>VinnyRules</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_modman-0.png"/>
-</entry>
-
-<entry>
-<title type="html">PELOGEN_CATCH(3Drender test)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142815"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142815</id>
-<updated>2024-06-22 14:00:12</updated>
-<summary></summary>
-<category term="[&quot;3d&quot;,&quot;polygon&quot;,&quot;trifill&quot;,]"/>
-<author><name>shiftalow</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pelogen_catch-0.png"/>
-</entry>
 
 <entry>
 <title type="html">punkt</title>
