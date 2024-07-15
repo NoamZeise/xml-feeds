@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-26 15:18:48</updated>
+<updated>2024-06-27 12:29:11</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">punkt</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142864"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142864</id>
-<updated>2024-06-26 15:18:48</updated>
-<summary></summary>
-<category term="[&quot;game&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_punkt-1.png"/>
-</entry>
 
 <entry>
 <title type="html">waterfall demo</title>
@@ -146,6 +135,50 @@
 <category term="[]"/>
 <author><name>SquidLight</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Orrery 0.1</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143145"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143145</id>
+<updated>2024-07-14 05:57:13</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Robotinker</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_orrery-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Can, Uncan Archive</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141664"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141664</id>
+<updated>2024-07-14 15:26:21</updated>
+<summary></summary>
+<category term="[&quot;wip&quot;,&quot;archive&quot;,&quot;zip&quot;,&quot;tar&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_can-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Red Panda Tamago</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143136"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143136</id>
+<updated>2024-07-14 17:44:05</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Nizart</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pico_tamago-2.png"/>
+</entry>
+
+<entry>
+<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
+<updated>2024-07-14 18:26:32</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
 </entry>
 
 </feed>
