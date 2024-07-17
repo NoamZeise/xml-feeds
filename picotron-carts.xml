@@ -28,17 +28,6 @@
 </entry>
 
 <entry>
-<title type="html">Arc System Loader</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
-<updated>2024-06-30 20:31:02</updated>
-<summary></summary>
-<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
-<author><name>ArcticFox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Platformer Base (ported)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142944"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142944</id>
@@ -179,6 +168,17 @@
 <category term="[&quot;animation&quot;,&quot;easing&quot;,&quot;physics&quot;,&quot;demo&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sod_demo-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Arc System Loader</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
+<updated>2024-07-16 05:58:56</updated>
+<summary></summary>
+<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
+<author><name>ArcticFox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
 </entry>
 
 </feed>
