@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-27 23:15:54</updated>
+<updated>2024-07-01 22:46:28</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142881"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142881</id>
-<updated>2024-06-27 23:15:54</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Basilingus</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yumenikkiware-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Miditron - The first midi to picotron conversion tool!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141566"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141566</id>
-<updated>2024-06-29 01:38:18</updated>
-<summary></summary>
-<category term="[&quot;midi&quot;,&quot;music&quot;,&quot;conversion&quot;,&quot;sfx&quot;,]"/>
-<author><name>raulboo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/54921/miditron_01.p64.png"/>
-</entry>
 
 <entry>
 <title type="html">Platformer Base (ported)</title>
@@ -179,6 +157,39 @@
 <category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
 <author><name>ArcticFox</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Tronifarjan</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143191"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143191</id>
+<updated>2024-07-17 16:39:51</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>visy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pudumarsu-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Rat Maze 3D Screensaver v1.0</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141402"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141402</id>
+<updated>2024-07-17 19:15:48</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
+<author><name>Snail_God</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-5.png"/>
+</entry>
+
+<entry>
+<title type="html">Bomber</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143194"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143194</id>
+<updated>2024-07-17 22:31:01</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>JThburvs</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
 </entry>
 
 </feed>
