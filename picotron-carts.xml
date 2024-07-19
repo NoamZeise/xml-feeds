@@ -83,17 +83,6 @@
 </entry>
 
 <entry>
-<title type="html">Spiro</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
-<updated>2024-07-12 19:01:40</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>SquidLight</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
-</entry>
-
-<entry>
 <title type="html">Orrery 0.1</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143145"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143145</id>
@@ -190,6 +179,17 @@
 <category term="[]"/>
 <author><name>JThburvs</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Spiro</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
+<updated>2024-07-18 19:56:02</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>SquidLight</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
 </entry>
 
 </feed>
