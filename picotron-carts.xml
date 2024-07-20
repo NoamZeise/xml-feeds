@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-01 22:46:28</updated>
+<updated>2024-07-05 02:15:35</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Platformer Base (ported)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142944"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142944</id>
-<updated>2024-07-01 22:46:28</updated>
-<summary></summary>
-<category term="[&quot;framework&quot;,]"/>
-<author><name>melodyl</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_justaport-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Picotron Wiki</title>
@@ -190,6 +179,50 @@
 <category term="[]"/>
 <author><name>SquidLight</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Random maze generator</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143228"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143228</id>
+<updated>2024-07-20 03:18:22</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;screensavers&quot;,]"/>
+<author><name>bugbard</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_hebyowaha-1.png"/>
+</entry>
+
+<entry>
+<title type="html">obnoxious love screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143230"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143230</id>
+<updated>2024-07-20 04:00:24</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;obnoxious&quot;,]"/>
+<author><name>Saeihr</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_obnoxious_love-2.png"/>
+</entry>
+
+<entry>
+<title type="html">DVD Bouncing screensaver/wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142118"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142118</id>
+<updated>2024-07-20 04:48:55</updated>
+<summary></summary>
+<category term="[&quot;dvd&quot;,&quot;screensaver&quot;,&quot;picotron&quot;,]"/>
+<author><name>Pey</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dvdbounce-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Sort Our Ship</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-07-20 04:56:12</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-1.png"/>
 </entry>
 
 </feed>
