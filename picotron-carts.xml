@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-05 13:54:04</updated>
+<updated>2024-07-10 13:30:44</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Eclypse demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141129"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141129</id>
-<updated>2024-07-05 13:54:04</updated>
-<summary></summary>
-<category term="[&quot;wallpapers&quot;,&quot;screensavers&quot;,&quot;demos&quot;,]"/>
-<author><name>josiebreck</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eclypse-0.png"/>
-</entry>
-
-<entry>
-<title type="html">pgui - a GUI library for Picotron! (Immediate Mode)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141913"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141913</id>
-<updated>2024-07-06 17:26:21</updated>
-<summary></summary>
-<category term="[&quot;gui&quot;,&quot;library&quot;,&quot;immediate&quot;,&quot;mode&quot;,]"/>
-<author><name>ssergiorodriguezz</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pgui-7.png"/>
-</entry>
-
-<entry>
-<title type="html">OkPal v1.0.2 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-07-07 13:16:28</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
-</entry>
 
 <entry>
 <title type="html">cyntron</title>
@@ -105,17 +72,6 @@
 </entry>
 
 <entry>
-<title type="html">Arc System Loader</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
-<updated>2024-07-16 05:58:56</updated>
-<summary></summary>
-<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
-<author><name>ArcticFox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Tronifarjan</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143191"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143191</id>
@@ -146,17 +102,6 @@
 <category term="[]"/>
 <author><name>JThburvs</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Spiro</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
-<updated>2024-07-18 19:56:02</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>SquidLight</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
 </entry>
 
 <entry>
@@ -193,17 +138,6 @@
 </entry>
 
 <entry>
-<title type="html">Sort Our Ship</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2024-07-21 00:16:57</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-1.png"/>
-</entry>
-
-<entry>
 <title type="html">In the Middle</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143246"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143246</id>
@@ -212,6 +146,72 @@
 <category term="[&quot;quirky&quot;,&quot;small&quot;,]"/>
 <author><name>fantasticfox</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_in_the_middle-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Arc System Loader</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
+<updated>2024-07-21 10:32:50</updated>
+<summary></summary>
+<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
+<author><name>ArcticFox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Solitaire Suite Example Project</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143251"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143251</id>
+<updated>2024-07-21 14:23:53</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,&quot;solitaire-suite-mod&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_example_project-7.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Solitaire Suite</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141288</id>
+<updated>2024-07-21 14:37:06</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Sort Our Ship</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-07-21 17:04:07</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Spiro</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
+<updated>2024-07-21 18:59:27</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>SquidLight</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
+</entry>
+
+<entry>
+<title type="html">neofetch</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141070"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141070</id>
+<updated>2024-07-22 02:43:32</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>ibll</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neofetch-0.png"/>
 </entry>
 
 </feed>
