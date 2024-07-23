@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-10 13:30:44</updated>
+<updated>2024-07-14 05:57:13</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">cyntron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143072"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143072</id>
-<updated>2024-07-10 13:30:44</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;pixelart&quot;,&quot;animated&quot;,&quot;wallpaper&quot;,]"/>
-<author><name>EPUJelly</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cyntron-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Orrery 0.1</title>
@@ -80,17 +69,6 @@
 <category term="[]"/>
 <author><name>visy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pudumarsu-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Rat Maze 3D Screensaver v1.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141402"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141402</id>
-<updated>2024-07-17 19:15:48</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
-<author><name>Snail_God</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-5.png"/>
 </entry>
 
 <entry>
@@ -182,17 +160,6 @@
 </entry>
 
 <entry>
-<title type="html">Sort Our Ship</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2024-07-21 17:04:07</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-2.png"/>
-</entry>
-
-<entry>
 <title type="html">Spiro</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142826</id>
@@ -212,6 +179,39 @@
 <category term="[]"/>
 <author><name>ibll</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neofetch-0.png"/>
+</entry>
+
+<entry>
+<title type="html">trackercmd</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143261"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143261</id>
+<updated>2024-07-22 11:30:25</updated>
+<summary></summary>
+<category term="[&quot;cheetsheet&quot;,&quot;tooltray&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_trackercmd-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Sort Our Ship</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-07-22 15:08:16</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Rat Maze 3D Screensaver v1.2</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141402"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141402</id>
+<updated>2024-07-23 03:48:45</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
+<author><name>Snail_God</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-7.png"/>
 </entry>
 
 </feed>
