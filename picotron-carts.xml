@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-14 05:57:13</updated>
+<updated>2024-07-14 15:26:21</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Orrery 0.1</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143145"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143145</id>
-<updated>2024-07-14 05:57:13</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Robotinker</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_orrery-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Can, Uncan Archive</title>
@@ -212,6 +201,17 @@
 <category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
 <author><name>Snail_God</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-7.png"/>
+</entry>
+
+<entry>
+<title type="html">Phoenix</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143280"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143280</id>
+<updated>2024-07-24 00:03:15</updated>
+<summary></summary>
+<category term="[&quot;game&quot;,&quot;arcade&quot;,]"/>
+<author><name>pahammond</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phoenix_picotron-0.png"/>
 </entry>
 
 </feed>
