@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-16 00:36:42</updated>
+<updated>2024-07-17 16:39:51</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Second order dynamics demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143166"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143166</id>
-<updated>2024-07-16 00:36:42</updated>
-<summary></summary>
-<category term="[&quot;animation&quot;,&quot;easing&quot;,&quot;physics&quot;,&quot;demo&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sod_demo-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Tronifarjan</title>
