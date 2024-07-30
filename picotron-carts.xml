@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-17 22:31:01</updated>
+<updated>2024-07-20 03:18:22</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Bomber</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143194"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143194</id>
-<updated>2024-07-17 22:31:01</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>JThburvs</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Random maze generator</title>
@@ -179,6 +168,17 @@
 <category term="[&quot;game&quot;,&quot;arcade&quot;,]"/>
 <author><name>pahammond</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phoenix_picotron-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Birdhead (deluxe)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141054"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141054</id>
+<updated>2024-07-29 05:53:36</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;classic&quot;,&quot;original&quot;,&quot;game&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_foraruyum-8.png"/>
 </entry>
 
 </feed>
