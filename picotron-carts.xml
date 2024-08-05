@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-21 14:37:06</updated>
+<updated>2024-07-22 11:30:25</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picotron Solitaire Suite</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141288"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141288</id>
-<updated>2024-07-21 14:37:06</updated>
-<summary></summary>
-<category term="[&quot;solitaire&quot;,]"/>
-<author><name>Werxzy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitaire_suite-3.png"/>
-</entry>
-
-<entry>
-<title type="html">Spiro</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142826"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142826</id>
-<updated>2024-07-21 18:59:27</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>SquidLight</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spiro-4.png"/>
-</entry>
-
-<entry>
-<title type="html">neofetch</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141070"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141070</id>
-<updated>2024-07-22 02:43:32</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>ibll</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neofetch-0.png"/>
-</entry>
 
 <entry>
 <title type="html">trackercmd</title>
@@ -146,6 +113,28 @@
 <category term="[&quot;arcade&quot;,&quot;classic&quot;,&quot;original&quot;,&quot;game&quot;,]"/>
 <author><name>BGelais</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_foraruyum-8.png"/>
+</entry>
+
+<entry>
+<title type="html">DENIS KOGNE (deluxe)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142138"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142138</id>
+<updated>2024-08-04 17:37:23</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;picotron&quot;,&quot;platformer&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deniskognedel-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Go The Distance</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143470"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143470</id>
+<updated>2024-08-05 00:49:54</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_go_the_distance-3.png"/>
 </entry>
 
 </feed>
