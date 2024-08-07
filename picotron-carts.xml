@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-22 11:30:25</updated>
+<updated>2024-07-23 03:48:45</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">trackercmd</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143261"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143261</id>
-<updated>2024-07-22 11:30:25</updated>
-<summary></summary>
-<category term="[&quot;cheetsheet&quot;,&quot;tooltray&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_trackercmd-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Sort Our Ship</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2024-07-22 15:08:16</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Rat Maze 3D Screensaver v1.2</title>
@@ -135,6 +113,39 @@
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_go_the_distance-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Shign&apos;s Custom Robot Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140805"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140805</id>
+<updated>2024-08-06 10:05:43</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>Actually_A_Sign</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_shignrobotwallpaper-0.png"/>
+</entry>
+
+<entry>
+<title type="html">picotronpong</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141059"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141059</id>
+<updated>2024-08-06 11:03:17</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>krismo</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picotronpong-1.png"/>
+</entry>
+
+<entry>
+<title type="html">maze wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143520"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143520</id>
+<updated>2024-08-06 18:59:39</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_zamuwawaje-0.png"/>
 </entry>
 
 </feed>
