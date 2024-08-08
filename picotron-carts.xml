@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-23 03:48:45</updated>
+<updated>2024-07-24 15:50:05</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Rat Maze 3D Screensaver v1.2</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141402"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141402</id>
-<updated>2024-07-23 03:48:45</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;3d&quot;,]"/>
-<author><name>Snail_God</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rat_maze-7.png"/>
-</entry>
 
 <entry>
 <title type="html">CBB Wallpaper 1.0</title>
@@ -146,6 +135,17 @@
 <category term="[&quot;wallpaper&quot;,]"/>
 <author><name>sugarflower</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_zamuwawaje-0.png"/>
+</entry>
+
+<entry>
+<title type="html">picoGO - Text based Web Browser (alpha release)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143538"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143538</id>
+<updated>2024-08-07 17:32:21</updated>
+<summary></summary>
+<category term="[&quot;web&quot;,&quot;browser&quot;,&quot;html&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
 </entry>
 
 </feed>
