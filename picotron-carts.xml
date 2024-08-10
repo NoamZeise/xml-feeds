@@ -148,4 +148,26 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
 </entry>
 
+<entry>
+<title type="html">floaters</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143576"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143576</id>
+<updated>2024-08-09 09:43:55</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,]"/>
+<author><name>bugbard</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bugbard_floaters-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Orbital Clock wallpaper v0.3a</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141213"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141213</id>
+<updated>2024-08-09 18:14:07</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,&quot;clock&quot;,&quot;desktop&quot;,]"/>
+<author><name>RazielFireeye</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_orbital_clock_wp-4.png"/>
+</entry>
+
 </feed>
