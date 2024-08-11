@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-07-24 15:50:05</updated>
+<updated>2024-07-29 03:43:58</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">CBB Wallpaper 1.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142521"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142521</id>
-<updated>2024-07-24 15:50:05</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>sidtheloser</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cbbwallpaper-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141655</id>
-<updated>2024-07-25 06:16:36</updated>
-<summary></summary>
-<category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
-<author><name>luchak</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
-</entry>
 
 <entry>
 <title type="html">Phoenix</title>
@@ -168,6 +146,28 @@
 <category term="[&quot;wallpaper&quot;,&quot;clock&quot;,&quot;desktop&quot;,]"/>
 <author><name>RazielFireeye</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_orbital_clock_wp-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Qlock</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143588</id>
+<updated>2024-08-10 17:09:17</updated>
+<summary></summary>
+<category term="[&quot;clock&quot;,&quot;desktop&quot;,]"/>
+<author><name>breadslices</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-3.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.2 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-08-10 20:42:17</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
 </entry>
 
 </feed>
