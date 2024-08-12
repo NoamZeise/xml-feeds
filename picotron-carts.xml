@@ -149,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">Qlock</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143588</id>
-<updated>2024-08-10 17:09:17</updated>
-<summary></summary>
-<category term="[&quot;clock&quot;,&quot;desktop&quot;,]"/>
-<author><name>breadslices</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-3.png"/>
-</entry>
-
-<entry>
 <title type="html">OkPal v1.0.2 (palette editor)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141308</id>
@@ -168,6 +157,28 @@
 <category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
 <author><name>drakmaniso</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
+</entry>
+
+<entry>
+<title type="html">Qlock</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143588</id>
+<updated>2024-08-11 09:14:11</updated>
+<summary></summary>
+<category term="[&quot;clock&quot;,]"/>
+<author><name>breadslices</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Solitaire Suite Example Project</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143251"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143251</id>
+<updated>2024-08-12 02:45:29</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,&quot;solitaire-suite-mod&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_example_project-7.png"/>
 </entry>
 
 </feed>
