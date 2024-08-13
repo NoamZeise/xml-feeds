@@ -163,18 +163,29 @@
 <title type="html">Qlock</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143588</id>
-<updated>2024-08-11 09:14:11</updated>
+<updated>2024-08-12 13:38:55</updated>
 <summary></summary>
 <category term="[&quot;clock&quot;,]"/>
 <author><name>breadslices</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-4.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-5.png"/>
+</entry>
+
+<entry>
+<title type="html">TenSum - Cozy Counting</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
+<updated>2024-08-12 14:30:59</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-3.png"/>
 </entry>
 
 <entry>
 <title type="html">Solitaire Suite Example Project</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143251"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143251</id>
-<updated>2024-08-12 02:45:29</updated>
+<updated>2024-08-12 17:58:23</updated>
 <summary></summary>
 <category term="[&quot;solitaire&quot;,&quot;solitaire-suite-mod&quot;,]"/>
 <author><name>Werxzy</name></author>
