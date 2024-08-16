@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">OkPal v1.0.2 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-08-10 20:42:17</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
-</entry>
-
-<entry>
 <title type="html">Qlock</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143588</id>
@@ -193,10 +182,21 @@
 </entry>
 
 <entry>
+<title type="html">OkPal v1.0.2 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-08-15 09:41:13</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
+</entry>
+
+<entry>
 <title type="html">Camera 0.1</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143644"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143644</id>
-<updated>2024-08-14 17:02:36</updated>
+<updated>2024-08-15 20:11:46</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>maybdev</name></author>
