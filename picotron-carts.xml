@@ -1,64 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-09 18:14:07</updated>
+<updated>2024-08-16 13:01:53</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Orbital Clock wallpaper v0.3a</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141213"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141213</id>
-<updated>2024-08-09 18:14:07</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,&quot;clock&quot;,&quot;desktop&quot;,]"/>
-<author><name>RazielFireeye</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_orbital_clock_wp-4.png"/>
-</entry>
-
-<entry>
-<title type="html">Qlock</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143588"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143588</id>
-<updated>2024-08-12 13:38:55</updated>
-<summary></summary>
-<category term="[&quot;clock&quot;,]"/>
-<author><name>breadslices</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_qlock-5.png"/>
-</entry>
-
-<entry>
-<title type="html">TenSum - Cozy Counting</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142730</id>
-<updated>2024-08-12 14:30:59</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-3.png"/>
-</entry>
-
-<entry>
-<title type="html">Solitaire Suite Example Project</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143251"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143251</id>
-<updated>2024-08-12 17:58:23</updated>
-<summary></summary>
-<category term="[&quot;solitaire&quot;,&quot;solitaire-suite-mod&quot;,]"/>
-<author><name>Werxzy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_example_project-7.png"/>
-</entry>
-
-<entry>
-<title type="html">OkPal v1.0.2 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-08-15 09:41:13</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-5.png"/>
-</entry>
 
 <entry>
 <title type="html">Camera 0.1</title>
@@ -190,6 +135,50 @@
 <category term="[&quot;vector&quot;,&quot;art&quot;,&quot;editor&quot;,&quot;veditor&quot;,]"/>
 <author><name>SophieHoulden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_veditor-6.png"/>
+</entry>
+
+<entry>
+<title type="html">floaters</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143576"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143576</id>
+<updated>2024-08-21 06:59:10</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,]"/>
+<author><name>bugbard</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bugbard_floaters-1.png"/>
+</entry>
+
+<entry>
+<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
+<updated>2024-08-21 11:55:04</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
+</entry>
+
+<entry>
+<title type="html">Aquatic wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143783"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143783</id>
+<updated>2024-08-21 12:34:21</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_aquarium_wallpaper-0.png"/>
+</entry>
+
+<entry>
+<title type="html">sortinghat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143798"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143798</id>
+<updated>2024-08-21 23:21:06</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Adri314</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sortinghat-0.png"/>
 </entry>
 
 </feed>
