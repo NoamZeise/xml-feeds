@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-04-15T15:00:00.000Z</updated>
+<updated>2024-06-13T15:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">/dev: Arena Round Three</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-arena-round-three/"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-arena-round-three/</id>
-<updated>2024-04-15T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Split 2 Gameplay Preview</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/split-2-gameplay-preview/"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/split-2-gameplay-preview/</id>
-<updated>2024-04-30T18:30:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Split 2 Ranked Update</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-split-two-ranked-update/"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-split-two-ranked-update/</id>
-<updated>2024-05-07T17:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Dev Update: Gameplay, Esports &amp; Arcane</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=6zOUaLKqwaA"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=6zOUaLKqwaA</id>
-<updated>2024-06-11T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">TL;DW: Gameplay, Esports &amp; Arcane Dev Update</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-gameplay-esports-arcane-dev-update"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-gameplay-esports-arcane-dev-update</id>
-<updated>2024-06-11T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">We Asked TFT Devs Your Burning Questions</title>
@@ -109,6 +64,51 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=G8yuqPYBQ3k"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=G8yuqPYBQ3k</id>
 <updated>2024-07-31T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Honor and Behavioral Systems Update</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-honor-and-behavioral-systems-update"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-honor-and-behavioral-systems-update</id>
+<updated>2024-08-22T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Vanguard x LoL Retrospective</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective</id>
+<updated>2024-08-22T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">TL;DW: Honor, Skins &amp; More</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-honoring-opponents-skin-themes-more"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-honoring-opponents-skin-themes-more</id>
+<updated>2024-08-22T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Skin Thematics and Champion Fantasies</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-skin-thematics-and-champion-fantasies"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-skin-thematics-and-champion-fantasies</id>
+<updated>2024-08-22T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Honor, Skins  &amp; More</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Ns8hunJ8xCs"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Ns8hunJ8xCs</id>
+<updated>2024-08-22T15:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
