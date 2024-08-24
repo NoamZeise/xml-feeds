@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-18 00:00:56</updated>
+<updated>2024-08-19 05:18:21</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">picoGO - Text based Web Browser (alpha release)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143538"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143538</id>
-<updated>2024-08-18 00:00:56</updated>
-<summary></summary>
-<category term="[&quot;web&quot;,&quot;browser&quot;,&quot;html&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Mod Manager for Picotron Workstation OS</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142806"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142806</id>
-<updated>2024-08-18 00:05:48</updated>
-<summary></summary>
-<category term="[&quot;mod&quot;,]"/>
-<author><name>VinnyRules</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_modman-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Rain, my first picotron project!</title>
@@ -116,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
-<updated>2024-08-21 11:55:04</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
-</entry>
-
-<entry>
 <title type="html">Aquatic wallpaper</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143783"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143783</id>
@@ -190,6 +157,39 @@
 <category term="[]"/>
 <author><name>Adri314</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sortinghat-1.png"/>
+</entry>
+
+<entry>
+<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
+<updated>2024-08-23 08:40:13</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
+</entry>
+
+<entry>
+<title type="html">Raycaster level editor</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143825"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143825</id>
+<updated>2024-08-23 14:52:36</updated>
+<summary></summary>
+<category term="[&quot;level-maker&quot;,]"/>
+<author><name>Nedim</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tile_raycaster-0.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.3 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-08-23 18:00:03</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
 </entry>
 
 </feed>
