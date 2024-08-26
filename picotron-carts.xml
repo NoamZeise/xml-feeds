@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-19 05:18:21</updated>
+<updated>2024-08-19 15:55:23</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Rain, my first picotron project!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142545"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142545</id>
-<updated>2024-08-19 05:18:21</updated>
-<summary></summary>
-<category term="[&quot;beginner&quot;,]"/>
-<author><name>Sigmoidle</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_resuwawaya-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Matrix Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141455"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141455</id>
-<updated>2024-08-19 05:21:30</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,]"/>
-<author><name>SophieHoulden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_matrix_screensaver-1.png"/>
-</entry>
-
-<entry>
-<title type="html">flying_picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141537"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141537</id>
-<updated>2024-08-19 05:22:57</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,]"/>
-<author><name>Svetlana</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flying_picotron-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Multiplayer Paint</title>
@@ -190,6 +157,28 @@
 <category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
 <author><name>drakmaniso</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
+</entry>
+
+<entry>
+<title type="html">Sandotron!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140653"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140653</id>
+<updated>2024-08-25 16:08:21</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>krajzeg</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sandotron-8.png"/>
+</entry>
+
+<entry>
+<title type="html">Ducky Death</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143865"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143865</id>
+<updated>2024-08-26 03:06:26</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ducky_death-0.png"/>
 </entry>
 
 </feed>
