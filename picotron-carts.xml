@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-19 15:55:23</updated>
+<updated>2024-08-19 19:34:41</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Multiplayer Paint</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141393"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141393</id>
-<updated>2024-08-19 15:55:23</updated>
-<summary></summary>
-<category term="[&quot;paint&quot;,&quot;canvas&quot;,&quot;online&quot;,]"/>
-<author><name>Toxel</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint_-3.png"/>
-</entry>
-
-<entry>
-<title type="html">Trigonometry</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143749"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143749</id>
-<updated>2024-08-19 16:29:24</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>dio_ff</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tkopeng-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Finit</title>
@@ -179,6 +157,28 @@
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ducky_death-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotrons</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143883"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143883</id>
+<updated>2024-08-26 16:15:35</updated>
+<summary></summary>
+<category term="[&quot;fun&quot;,&quot;sandbox&quot;,&quot;picotrons&quot;,&quot;help&quot;,]"/>
+<author><name>cheesemug</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picotrons-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Top Down Engine</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143877"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143877</id>
+<updated>2024-08-27 04:04:17</updated>
+<summary></summary>
+<category term="[&quot;engine&quot;,&quot;topdown&quot;,&quot;template&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_topdownengine-1.png"/>
 </entry>
 
 </feed>
