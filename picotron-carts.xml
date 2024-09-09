@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-23 18:00:03</updated>
+<updated>2024-08-25 16:08:21</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">OkPal v1.0.3 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-08-23 18:00:03</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
-</entry>
 
 <entry>
 <title type="html">Sandotron!</title>
@@ -116,17 +105,6 @@
 </entry>
 
 <entry>
-<title type="html">Docs</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143940</id>
-<updated>2024-09-04 06:20:09</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-3.png"/>
-</entry>
-
-<entry>
 <title type="html">Blade3D Teapot Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144056</id>
@@ -146,6 +124,17 @@
 <category term="[]"/>
 <author><name>taxicomics</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tensum-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Docs</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143940</id>
+<updated>2024-09-09 01:57:04</updated>
+<summary></summary>
+<category term="[&quot;tool&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-3.png"/>
 </entry>
 
 </feed>
