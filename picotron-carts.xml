@@ -94,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">p8x8: convert PICO-8 carts to Picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141107"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141107</id>
-<updated>2024-09-02 21:42:42</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,&quot;pico8&quot;,&quot;convert&quot;,]"/>
-<author><name>pancelor</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-7.png"/>
-</entry>
-
-<entry>
 <title type="html">Blade3D Teapot Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144056</id>
@@ -130,11 +119,44 @@
 <title type="html">Docs</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
 <id>https://www.lexaloffle.com/bbs/?tid=143940</id>
-<updated>2024-09-09 01:57:04</updated>
+<updated>2024-09-09 06:59:47</updated>
 <summary></summary>
 <category term="[&quot;tool&quot;,]"/>
 <author><name>Hessery</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-3.png"/>
+</entry>
+
+<entry>
+<title type="html">picoGO - Text based Web Browser (alpha release)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143538"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143538</id>
+<updated>2024-09-09 07:31:26</updated>
+<summary></summary>
+<category term="[&quot;web&quot;,&quot;browser&quot;,&quot;html&quot;,]"/>
+<author><name>369369369</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
+</entry>
+
+<entry>
+<title type="html">p8x8: convert PICO-8 carts to Picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141107"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141107</id>
+<updated>2024-09-09 23:15:10</updated>
+<summary></summary>
+<category term="[&quot;tool&quot;,&quot;pico8&quot;,&quot;convert&quot;,]"/>
+<author><name>pancelor</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-7.png"/>
+</entry>
+
+<entry>
+<title type="html">chipeight</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144113"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144113</id>
+<updated>2024-09-10 04:26:47</updated>
+<summary></summary>
+<category term="[&quot;wip&quot;,&quot;chip8&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_chipeight-0.png"/>
 </entry>
 
 </feed>
