@@ -17,17 +17,6 @@
 </entry>
 
 <entry>
-<title type="html">p8x8: convert PICO-8 carts to Picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141107"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141107</id>
-<updated>2024-09-09 23:15:10</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,&quot;pico8&quot;,&quot;convert&quot;,]"/>
-<author><name>pancelor</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-7.png"/>
-</entry>
-
-<entry>
 <title type="html">TenSum - Cozy Counting</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142730"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142730</id>
@@ -124,6 +113,17 @@
 <category term="[&quot;tool&quot;,]"/>
 <author><name>Hessery</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-6.png"/>
+</entry>
+
+<entry>
+<title type="html">p8x8: convert PICO-8 carts to Picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141107"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141107</id>
+<updated>2024-09-20 20:54:50</updated>
+<summary></summary>
+<category term="[&quot;tool&quot;,&quot;pico8&quot;,&quot;convert&quot;,]"/>
+<author><name>pancelor</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_p8x8-7.png"/>
 </entry>
 
 </feed>
