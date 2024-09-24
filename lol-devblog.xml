@@ -1,54 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-06-24T16:00:00.000Z</updated>
+<updated>2024-08-22T15:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">/Dev TFT: Inkborn Fables Learnings</title>
-<link href="https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-inkborn-fables-learnings/"/>
-<id>https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-inkborn-fables-learnings/</id>
-<updated>2024-06-24T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Dev Drop Teaser: When Magic Meets Mayhem</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=7oSt2CZxjiQ"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=7oSt2CZxjiQ</id>
-<updated>2024-07-09T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Upcoming Prestige &amp; Mythic Skins June 2024</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/upcoming-prestige-mythic-skins-june-2024"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/upcoming-prestige-mythic-skins-june-2024</id>
-<updated>2024-07-10T17:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">TFT Dev Drop: Magic n’ Mayhem</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=WB9j9eEThgI"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=WB9j9eEThgI</id>
-<updated>2024-07-14T19:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Devs Answer Questions While Swarmed by Kittens</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=G8yuqPYBQ3k"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=G8yuqPYBQ3k</id>
-<updated>2024-07-31T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">TL;DW: Honor, Skins &amp; More</title>
@@ -109,6 +64,51 @@
 <link href="https://www.leagueoflegends.com/en-us/news/dev/dev-2024-split-3-gameplay-changes"/>
 <id>https://www.leagueoflegends.com/en-us/news/dev/dev-2024-split-3-gameplay-changes</id>
 <updated>2024-09-10T17:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Matchmaking, Seasons in 2025 &amp; More</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=h-c0BS8a5bQ"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=h-c0BS8a5bQ</id>
+<updated>2024-09-23T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Matchmaking in 2024</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-matchmaking-in-2024"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-matchmaking-in-2024</id>
+<updated>2024-09-23T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Looking Forward for Arena and Swarm</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-looking-forward-for-arena-and-swarm"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-looking-forward-for-arena-and-swarm</id>
+<updated>2024-09-23T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Scouting out Teemo</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-scouting-out-teemo"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-scouting-out-teemo</id>
+<updated>2024-09-23T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">TL;DW: Matchmaking, Seasons in 2025 &amp; More Dev Update</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-matchmaking-seasons-in-2025-more-dev-update"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-matchmaking-seasons-in-2025-more-dev-update</id>
+<updated>2024-09-23T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
