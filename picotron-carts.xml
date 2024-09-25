@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-11 23:25:27</updated>
+<updated>2024-09-15 19:21:34</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Raid On Fort Knox (arcade deluxe)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143894"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143894</id>
-<updated>2024-09-11 23:25:27</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_teyorware-0.png"/>
-</entry>
-
-<entry>
-<title type="html">chipeight</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144113"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144113</id>
-<updated>2024-09-12 06:14:53</updated>
-<summary></summary>
-<category term="[&quot;wip&quot;,&quot;chip8&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_chipeight-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Blade3D Teapot Demo</title>
@@ -69,17 +47,6 @@
 <category term="[&quot;tool&quot;,]"/>
 <author><name>Hessery</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Jump And Run / Metroidvania Template</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
-<updated>2024-09-22 14:42:26</updated>
-<summary></summary>
-<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandruntemplate-1.png"/>
 </entry>
 
 <entry>
@@ -160,14 +127,58 @@
 </entry>
 
 <entry>
+<title type="html">Bells</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140919"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140919</id>
+<updated>2024-09-24 13:07:09</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>zep</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bells-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Jump And Run / Metroidvania Template</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
+<updated>2024-09-24 18:08:11</updated>
+<summary></summary>
+<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandruntemplate-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Spotty Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144398"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144398</id>
+<updated>2024-09-24 22:13:45</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>Profi06</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spotty_wallpaper-1.png"/>
+</entry>
+
+<entry>
 <title type="html">Fontviewer</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144379"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144379</id>
-<updated>2024-09-24 00:12:41</updated>
+<updated>2024-09-25 02:45:08</updated>
 <summary></summary>
 <category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
 <author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-2.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Dock 0.1</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144387"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144387</id>
+<updated>2024-09-25 04:57:06</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;desktop&quot;,&quot;launcher&quot;,]"/>
+<author><name>Jonson26</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dock-0.png"/>
 </entry>
 
 </feed>
