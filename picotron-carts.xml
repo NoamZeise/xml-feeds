@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-15 19:21:34</updated>
+<updated>2024-09-17 04:25:50</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-09-15 19:21:34</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Rat Maze 3D Screensaver v1.3</title>
@@ -171,14 +160,36 @@
 </entry>
 
 <entry>
-<title type="html">Dock 0.1</title>
+<title type="html">Pogue (picotron roguelike) (shield bugfix)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144424"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144424</id>
+<updated>2024-09-25 21:22:38</updated>
+<summary></summary>
+<category term="[&quot;roguelike&quot;,&quot;modification&quot;,&quot;game&quot;,]"/>
+<author><name>Jonson26</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pogue_shieldfix-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Canvas Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144425"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144425</id>
+<updated>2024-09-25 22:26:22</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;colorful&quot;,]"/>
+<author><name>Profi06</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_canvas_screensaver-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Dock</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144387"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144387</id>
-<updated>2024-09-25 04:57:06</updated>
+<updated>2024-09-26 00:21:59</updated>
 <summary></summary>
 <category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;desktop&quot;,&quot;launcher&quot;,]"/>
 <author><name>Jonson26</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dock-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dock-1.png"/>
 </entry>
 
 </feed>
