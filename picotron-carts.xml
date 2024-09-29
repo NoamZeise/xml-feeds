@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-20 02:59:30</updated>
+<updated>2024-09-23 00:11:42</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Docs</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143940</id>
-<updated>2024-09-20 02:59:30</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Solitron 0.9b</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140901"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140901</id>
-<updated>2024-09-22 16:08:23</updated>
-<summary></summary>
-<category term="[&quot;solitaire&quot;,]"/>
-<author><name>Fenouil</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_solitron-12.png"/>
-</entry>
 
 <entry>
 <title type="html">Think It Over</title>
@@ -149,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">Jump And Run / Metroidvania Template</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
-<updated>2024-09-27 18:05:07</updated>
-<summary></summary>
-<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandruntemplate-3.png"/>
-</entry>
-
-<entry>
 <title type="html">Dock</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144387"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144387</id>
@@ -179,6 +146,61 @@
 <category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
 <author><name>Profi06</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Jump And Run / Metroidvania Template</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
+<updated>2024-09-28 06:20:04</updated>
+<summary></summary>
+<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandrun-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Cat-upuncture</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144473"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144473</id>
+<updated>2024-09-28 14:30:12</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_catupuncture-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Arc System Loader</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
+<updated>2024-09-28 20:51:17</updated>
+<summary></summary>
+<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
+<author><name>ArcticFox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
+</entry>
+
+<entry>
+<title type="html">BrainF*** Fantisy</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144480"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144480</id>
+<updated>2024-09-28 20:54:29</updated>
+<summary></summary>
+<category term="[&quot;plzhelp&quot;,]"/>
+<author><name>Proatwork456</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_karehufuwe-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Docs</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143940</id>
+<updated>2024-09-28 21:09:24</updated>
+<summary></summary>
+<category term="[&quot;tool&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-7.png"/>
 </entry>
 
 </feed>
