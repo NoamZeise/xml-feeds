@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-24 22:13:45</updated>
+<updated>2024-09-25 22:26:22</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Spotty Wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144398"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144398</id>
-<updated>2024-09-24 22:13:45</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spotty_wallpaper-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Pogue (picotron roguelike) (shield bugfix)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144424"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144424</id>
-<updated>2024-09-25 21:22:38</updated>
-<summary></summary>
-<category term="[&quot;roguelike&quot;,&quot;modification&quot;,&quot;game&quot;,]"/>
-<author><name>Jonson26</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pogue_shieldfix-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Canvas Screensaver</title>
