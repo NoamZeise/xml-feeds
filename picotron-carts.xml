@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-25 22:26:22</updated>
+<updated>2024-09-27 04:30:10</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Canvas Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144425"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144425</id>
-<updated>2024-09-25 22:26:22</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;colorful&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_canvas_screensaver-0.png"/>
-</entry>
-
-<entry>
-<title type="html">&amp;quot;Faster Than Light&amp;quot; Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144371"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144371</id>
-<updated>2024-09-26 12:19:36</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;3d&quot;,&quot;galaxies&quot;,&quot;starfield&quot;,]"/>
-<author><name>hwd2002</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ftl_scsv-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Grid Dancer v0.7777</title>
@@ -157,6 +135,28 @@
 <category term="[&quot;tool&quot;,&quot;utility&quot;,&quot;tools&quot;,]"/>
 <author><name>JoshK</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/media/45041/4_video_3.gif"/>
+</entry>
+
+<entry>
+<title type="html">fadio-8</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140718"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140718</id>
+<updated>2024-10-02 06:26:23</updated>
+<summary></summary>
+<category term="[&quot;fade&quot;,&quot;tool&quot;,]"/>
+<author><name>jblend</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/72096/8_fadio8.p64.png"/>
+</entry>
+
+<entry>
+<title type="html">Solitaire Suite Example Project</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143251"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143251</id>
+<updated>2024-10-03 01:39:50</updated>
+<summary></summary>
+<category term="[&quot;solitaire&quot;,&quot;solitaire-suite-mod&quot;,]"/>
+<author><name>Werxzy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_example_project-7.png"/>
 </entry>
 
 </feed>
