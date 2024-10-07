@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-28 14:30:12</updated>
+<updated>2024-09-28 20:54:29</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Cat-upuncture</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144473"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144473</id>
-<updated>2024-09-28 14:30:12</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_catupuncture-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Arc System Loader</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142890"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142890</id>
-<updated>2024-09-28 20:51:17</updated>
-<summary></summary>
-<category term="[&quot;custom&quot;,&quot;system&quot;,&quot;alpha&quot;,]"/>
-<author><name>ArcticFox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_arcsystem-0.png"/>
-</entry>
 
 <entry>
 <title type="html">BrainF*** Fantisy</title>
@@ -168,6 +146,28 @@
 <category term="[&quot;3d&quot;,&quot;picotron&quot;,&quot;dodecahedron&quot;,&quot;geometry&quot;,]"/>
 <author><name>Profi06</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dodecahedron-0.png"/>
+</entry>
+
+<entry>
+<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
+<updated>2024-10-06 19:06:26</updated>
+<summary></summary>
+<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
+<author><name>hwd2002</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142881"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142881</id>
+<updated>2024-10-07 04:31:18</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Basilingus</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yumenikkiware-0.png"/>
 </entry>
 
 </feed>
