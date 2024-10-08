@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-28 20:54:29</updated>
+<updated>2024-09-28 21:09:24</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">BrainF*** Fantisy</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144480"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144480</id>
-<updated>2024-09-28 20:54:29</updated>
-<summary></summary>
-<category term="[&quot;plzhelp&quot;,]"/>
-<author><name>Proatwork456</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_karehufuwe-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Docs</title>
@@ -116,17 +105,6 @@
 </entry>
 
 <entry>
-<title type="html">CPU Monitor</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144592"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144592</id>
-<updated>2024-10-04 12:46:42</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;system&quot;,&quot;cpu&quot;,&quot;monitor&quot;,]"/>
-<author><name>IL Matthew</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cpu_monitor-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Im Finished!</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144582"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144582</id>
@@ -168,6 +146,28 @@
 <category term="[]"/>
 <author><name>Basilingus</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yumenikkiware-0.png"/>
+</entry>
+
+<entry>
+<title type="html">CPU Monitor</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144592"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144592</id>
+<updated>2024-10-07 13:34:09</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;system&quot;,&quot;cpu&quot;,&quot;monitor&quot;,]"/>
+<author><name>IL Matthew</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cpu_monitor-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Jump And Run / Metroidvania Template</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
+<updated>2024-10-07 21:53:03</updated>
+<summary></summary>
+<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandrun-0.png"/>
 </entry>
 
 </feed>
