@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-28 21:09:24</updated>
+<updated>2024-09-29 15:56:53</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Docs</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143940"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143940</id>
-<updated>2024-09-28 21:09:24</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_docs-7.png"/>
-</entry>
 
 <entry>
 <title type="html">Planes Trains and Automobiles background</title>
@@ -138,10 +127,32 @@
 </entry>
 
 <entry>
+<title type="html">Jump And Run / Metroidvania Template</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
+<updated>2024-10-08 05:42:03</updated>
+<summary></summary>
+<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
+<author><name>taxicomics</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandrun-0.png"/>
+</entry>
+
+<entry>
+<title type="html">CPU Monitor</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144592"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144592</id>
+<updated>2024-10-08 15:36:26</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;system&quot;,&quot;cpu&quot;,&quot;monitor&quot;,]"/>
+<author><name>IL Matthew</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cpu_monitor-3.png"/>
+</entry>
+
+<entry>
 <title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142881"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142881</id>
-<updated>2024-10-07 04:31:18</updated>
+<updated>2024-10-09 00:28:30</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>Basilingus</name></author>
@@ -149,25 +160,14 @@
 </entry>
 
 <entry>
-<title type="html">CPU Monitor</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144592"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144592</id>
-<updated>2024-10-07 13:34:09</updated>
+<title type="html">Cats Meeting Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141404"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141404</id>
+<updated>2024-10-09 02:40:18</updated>
 <summary></summary>
-<category term="[&quot;utility&quot;,&quot;system&quot;,&quot;cpu&quot;,&quot;monitor&quot;,]"/>
-<author><name>IL Matthew</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cpu_monitor-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Jump And Run / Metroidvania Template</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
-<updated>2024-10-07 21:53:03</updated>
-<summary></summary>
-<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandrun-0.png"/>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>fleet30</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_catsmeeting-1.png"/>
 </entry>
 
 </feed>
