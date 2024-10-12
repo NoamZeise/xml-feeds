@@ -159,4 +159,15 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-1.png"/>
 </entry>
 
+<entry>
+<title type="html">Paddix</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
+<updated>2024-10-11 10:19:10</updated>
+<summary></summary>
+<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
+<author><name>Brendos</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-0.png"/>
+</entry>
+
 </feed>
