@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-30 22:37:31</updated>
+<updated>2024-10-02 06:26:23</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">FileSearch</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144513"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144513</id>
-<updated>2024-09-30 22:37:31</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,&quot;utility&quot;,&quot;tools&quot;,]"/>
-<author><name>JoshK</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/45041/4_video_3.gif"/>
-</entry>
 
 <entry>
 <title type="html">fadio-8</title>
@@ -152,11 +141,22 @@
 <title type="html">Paddix</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144701</id>
-<updated>2024-10-11 10:19:10</updated>
+<updated>2024-10-15 09:28:51</updated>
 <summary></summary>
 <category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
 <author><name>Brendos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Project - Waves demo by zep</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144754"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144754</id>
+<updated>2024-10-15 22:59:55</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;pico8&quot;,&quot;port&quot;,]"/>
+<author><name>NazarFloppaLovesP8</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bafayatuki-0.png"/>
 </entry>
 
 </feed>
