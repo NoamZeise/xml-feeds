@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-03 11:01:05</updated>
+<updated>2024-10-03 19:58:00</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">ooooggll&apos;s platformer engine port to picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144567"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144567</id>
-<updated>2024-10-03 11:01:05</updated>
-<summary></summary>
-<category term="[&quot;portpico8&quot;,]"/>
-<author><name>Kolya142</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_nifodobepa-0.png"/>
-</entry>
 
 <entry>
 <title type="html">waving_flag</title>
@@ -152,7 +141,7 @@
 <title type="html">Picotron Project - Drippy by zep</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144775"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144775</id>
-<updated>2024-10-16 23:00:07</updated>
+<updated>2024-10-17 07:10:23</updated>
 <summary></summary>
 <category term="[&quot;picotron&quot;,&quot;pico8&quot;,&quot;port&quot;,]"/>
 <author><name>NazarFloppaLovesP8</name></author>
