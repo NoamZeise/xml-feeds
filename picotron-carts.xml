@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">Fontviewer</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144379"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144379</id>
-<updated>2024-10-16 15:09:34</updated>
-<summary></summary>
-<category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-4.png"/>
-</entry>
-
-<entry>
 <title type="html">Picotron Project - Drippy by zep</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144775"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144775</id>
@@ -146,6 +135,39 @@
 <category term="[&quot;picotron&quot;,&quot;pico8&quot;,&quot;port&quot;,]"/>
 <author><name>NazarFloppaLovesP8</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_titigohafu-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Smoke Sim</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140717"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140717</id>
+<updated>2024-10-18 06:49:47</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>luchak</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picotron_smoke-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Freecell Mod for Picotron Solitaire Suite</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144807"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144807</id>
+<updated>2024-10-18 19:11:42</updated>
+<summary></summary>
+<category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
+<author><name>candy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Fontviewer</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144379"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144379</id>
+<updated>2024-10-18 19:29:56</updated>
+<summary></summary>
+<category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
+<author><name>Profi06</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-5.png"/>
 </entry>
 
 </feed>
