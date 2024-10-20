@@ -149,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">Freecell Mod for Picotron Solitaire Suite</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144807"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144807</id>
-<updated>2024-10-18 19:11:42</updated>
-<summary></summary>
-<category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
-<author><name>candy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Fontviewer</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144379"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144379</id>
@@ -168,6 +157,17 @@
 <category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
 <author><name>Profi06</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-5.png"/>
+</entry>
+
+<entry>
+<title type="html">Freecell Mod for Picotron Solitaire Suite</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144807"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144807</id>
+<updated>2024-10-19 21:42:57</updated>
+<summary></summary>
+<category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
+<author><name>candy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-1.png"/>
 </entry>
 
 </feed>
