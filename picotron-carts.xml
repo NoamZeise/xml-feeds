@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-03 19:58:00</updated>
+<updated>2024-10-05 00:09:22</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">waving_flag</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144578"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144578</id>
-<updated>2024-10-03 19:58:00</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Lobo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_waving_flag-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Im Finished!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144582"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144582</id>
-<updated>2024-10-04 14:27:48</updated>
-<summary></summary>
-<category term="[&quot;brainf&quot;,]"/>
-<author><name>Proatwork456</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_taropakaye-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Dodecahedron</title>
@@ -94,17 +72,6 @@
 </entry>
 
 <entry>
-<title type="html">Fuzzy Finder</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144685"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144685</id>
-<updated>2024-10-10 15:04:05</updated>
-<summary></summary>
-<category term="[&quot;utilities&quot;,]"/>
-<author><name>arnaught</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-1.png"/>
-</entry>
-
-<entry>
 <title type="html">Paddix</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144701</id>
@@ -168,6 +135,17 @@
 <category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
 <author><name>candy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Fuzzy Finder</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144685"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144685</id>
+<updated>2024-10-21 02:04:04</updated>
+<summary></summary>
+<category term="[&quot;utilities&quot;,]"/>
+<author><name>arnaught</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-1.png"/>
 </entry>
 
 </feed>
