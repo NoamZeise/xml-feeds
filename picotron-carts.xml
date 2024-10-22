@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-05 00:09:22</updated>
+<updated>2024-10-06 19:06:26</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Dodecahedron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144599"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144599</id>
-<updated>2024-10-05 00:09:22</updated>
-<summary></summary>
-<category term="[&quot;3d&quot;,&quot;picotron&quot;,&quot;dodecahedron&quot;,&quot;geometry&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dodecahedron-0.png"/>
-</entry>
 
 <entry>
 <title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
@@ -141,11 +130,11 @@
 <title type="html">Fuzzy Finder</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144685"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144685</id>
-<updated>2024-10-21 02:04:04</updated>
+<updated>2024-10-21 12:17:00</updated>
 <summary></summary>
 <category term="[&quot;utilities&quot;,]"/>
 <author><name>arnaught</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-1.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-2.png"/>
 </entry>
 
 </feed>
