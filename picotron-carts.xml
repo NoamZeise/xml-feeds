@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-06 19:06:26</updated>
+<updated>2024-10-08 05:42:03</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
-<updated>2024-10-06 19:06:26</updated>
-<summary></summary>
-<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
-<author><name>hwd2002</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
-</entry>
 
 <entry>
 <title type="html">Jump And Run / Metroidvania Template</title>
@@ -135,6 +124,28 @@
 <category term="[&quot;utilities&quot;,]"/>
 <author><name>arnaught</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Blade3D Teapot Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
+<updated>2024-10-22 22:23:35</updated>
+<summary></summary>
+<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93379/5_Contrast3_Transparent.png"/>
+</entry>
+
+<entry>
+<title type="html">waving_flag</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144578"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144578</id>
+<updated>2024-10-23 00:08:54</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Lobo</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_waving_flag-0.png"/>
 </entry>
 
 </feed>
