@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-08 05:42:03</updated>
+<updated>2024-10-09 00:28:30</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Jump And Run / Metroidvania Template</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144348"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144348</id>
-<updated>2024-10-08 05:42:03</updated>
-<summary></summary>
-<category term="[&quot;jump&quot;,&quot;and&quot;,&quot;run&quot;,&quot;template&quot;,]"/>
-<author><name>taxicomics</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpandrun-0.png"/>
-</entry>
-
-<entry>
-<title type="html">CPU Monitor</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144592"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144592</id>
-<updated>2024-10-08 15:36:26</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;system&quot;,&quot;cpu&quot;,&quot;monitor&quot;,]"/>
-<author><name>IL Matthew</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_cpu_monitor-3.png"/>
-</entry>
 
 <entry>
 <title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
@@ -146,6 +124,28 @@
 <category term="[]"/>
 <author><name>Lobo</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_waving_flag-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Tronifarjan</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143191"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143191</id>
+<updated>2024-10-23 06:26:37</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>visy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pudumarsu-0.png"/>
+</entry>
+
+<entry>
+<title type="html">I seriously CANNOT stop thinking about the death of Gilles Deleuze</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144848"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144848</id>
+<updated>2024-10-23 18:51:05</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>PRINCESSINTERNETCAFe</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deleuze-0.png"/>
 </entry>
 
 </feed>
