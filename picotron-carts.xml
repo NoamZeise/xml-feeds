@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-09 00:28:30</updated>
+<updated>2024-10-09 12:27:44</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Yume Nikki WarioWare for Dream Diary Jam 8</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142881"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142881</id>
-<updated>2024-10-09 00:28:30</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Basilingus</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_yumenikkiware-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Cats Meeting Wallpaper</title>
@@ -91,6 +80,17 @@
 <category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
 <author><name>candy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Flushy Fish</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144836"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144836</id>
+<updated>2024-10-20 15:11:44</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flushy_fish-0.png"/>
 </entry>
 
 <entry>
