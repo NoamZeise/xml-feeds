@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-09 12:27:44</updated>
+<updated>2024-10-15 09:28:51</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Cats Meeting Wallpaper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141404"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141404</id>
-<updated>2024-10-09 12:27:44</updated>
-<summary></summary>
-<category term="[&quot;wallpaper&quot;,]"/>
-<author><name>fleet30</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_catsmeeting-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Paddix</title>
@@ -146,6 +135,17 @@
 <category term="[]"/>
 <author><name>PRINCESSINTERNETCAFe</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deleuze-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Font Utils</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141244"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141244</id>
+<updated>2024-10-25 13:50:03</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_font_utils-0.png"/>
 </entry>
 
 </feed>
