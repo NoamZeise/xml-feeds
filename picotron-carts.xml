@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-15 09:28:51</updated>
+<updated>2024-10-17 07:10:23</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Paddix</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
-<updated>2024-10-15 09:28:51</updated>
-<summary></summary>
-<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
-<author><name>Brendos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Picotron Project - Waves demo by zep</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144754"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144754</id>
-<updated>2024-10-15 22:59:55</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;pico8&quot;,&quot;port&quot;,]"/>
-<author><name>NazarFloppaLovesP8</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bafayatuki-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Picotron Project - Drippy by zep</title>
@@ -94,17 +72,6 @@
 </entry>
 
 <entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-10-22 22:23:35</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93379/5_Contrast3_Transparent.png"/>
-</entry>
-
-<entry>
 <title type="html">waving_flag</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144578"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144578</id>
@@ -146,6 +113,39 @@
 <category term="[]"/>
 <author><name>drakmaniso</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_font_utils-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Blade3D Teapot Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
+<updated>2024-10-27 15:56:03</updated>
+<summary></summary>
+<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93379/5_Contrast3_Transparent.png"/>
+</entry>
+
+<entry>
+<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
+<updated>2024-10-27 19:26:25</updated>
+<summary></summary>
+<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
+<author><name>hwd2002</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Grid Dancer v0.7777</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142353"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142353</id>
+<updated>2024-10-28 03:06:36</updated>
+<summary></summary>
+<category term="[&quot;cyber&quot;,&quot;racing&quot;,]"/>
+<author><name>fantasticfox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_grid_dancer-12.png"/>
 </entry>
 
 </feed>
