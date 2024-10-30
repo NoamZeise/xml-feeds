@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-17 07:10:23</updated>
+<updated>2024-10-18 19:29:56</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picotron Project - Drippy by zep</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144775"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144775</id>
-<updated>2024-10-17 07:10:23</updated>
-<summary></summary>
-<category term="[&quot;picotron&quot;,&quot;pico8&quot;,&quot;port&quot;,]"/>
-<author><name>NazarFloppaLovesP8</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_titigohafu-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Picotron Smoke Sim</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140717"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140717</id>
-<updated>2024-10-18 06:49:47</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>luchak</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picotron_smoke-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Fontviewer</title>
@@ -55,7 +33,7 @@
 <id>https://www.lexaloffle.com/bbs/?tid=144836</id>
 <updated>2024-10-20 15:11:44</updated>
 <summary></summary>
-<category term="[]"/>
+<category term="[&quot;jam&quot;,]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flushy_fish-0.png"/>
 </entry>
@@ -116,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-10-27 15:56:03</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93379/5_Contrast3_Transparent.png"/>
-</entry>
-
-<entry>
 <title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141870</id>
@@ -135,6 +102,50 @@
 <category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
 <author><name>hwd2002</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Scryer Static</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144989"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144989</id>
+<updated>2024-10-29 15:51:26</updated>
+<summary></summary>
+<category term="[&quot;animated&quot;,&quot;screensaver&quot;,]"/>
+<author><name>Aethoria</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_scryerstatic-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141655</id>
+<updated>2024-10-29 23:21:03</updated>
+<summary></summary>
+<category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
+<author><name>luchak</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Paint</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140716"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140716</id>
+<updated>2024-10-30 01:28:21</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Cutievirus</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint-12.png"/>
+</entry>
+
+<entry>
+<title type="html">Blade3D Teapot Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
+<updated>2024-10-30 03:43:28</updated>
+<summary></summary>
+<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-7.png"/>
 </entry>
 
 </feed>
