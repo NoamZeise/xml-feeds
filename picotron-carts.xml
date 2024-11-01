@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-18 19:29:56</updated>
+<updated>2024-10-21 12:17:00</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Fontviewer</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144379"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144379</id>
-<updated>2024-10-18 19:29:56</updated>
-<summary></summary>
-<category term="[&quot;font&quot;,&quot;tool&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fontviewer-5.png"/>
-</entry>
-
-<entry>
-<title type="html">Freecell Mod for Picotron Solitaire Suite</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144807"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144807</id>
-<updated>2024-10-19 21:42:57</updated>
-<summary></summary>
-<category term="[&quot;solitaire-suite-mod&quot;,&quot;solitaire&quot;,&quot;freecell&quot;,]"/>
-<author><name>candy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pss_freecell_mod-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Flushy Fish</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144836"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144836</id>
-<updated>2024-10-20 15:11:44</updated>
-<summary></summary>
-<category term="[&quot;jam&quot;,]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flushy_fish-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Fuzzy Finder</title>
@@ -94,28 +61,6 @@
 </entry>
 
 <entry>
-<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
-<updated>2024-10-28 07:10:45</updated>
-<summary></summary>
-<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
-<author><name>hwd2002</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
-</entry>
-
-<entry>
-<title type="html">Scryer Static</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144989"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144989</id>
-<updated>2024-10-29 15:51:26</updated>
-<summary></summary>
-<category term="[&quot;animated&quot;,&quot;screensaver&quot;,]"/>
-<author><name>Aethoria</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_scryerstatic-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141655</id>
@@ -146,6 +91,61 @@
 <category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-8.png"/>
+</entry>
+
+<entry>
+<title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141870</id>
+<updated>2024-10-31 14:08:06</updated>
+<summary></summary>
+<category term="[&quot;elite&quot;,&quot;3d&quot;,&quot;wireframe&quot;,&quot;screensaver&quot;,]"/>
+<author><name>hwd2002</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drydock_scsv-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Eldritch Dream</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
+<updated>2024-10-31 20:47:06</updated>
+<summary></summary>
+<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
+<author><name>Aethoria</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Rain, my first picotron project!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142545"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142545</id>
+<updated>2024-10-31 20:48:06</updated>
+<summary></summary>
+<category term="[&quot;beginner&quot;,]"/>
+<author><name>Sigmoidle</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_resuwawaya-2.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.3 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-10-31 22:12:56</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
+</entry>
+
+<entry>
+<title type="html">Scryer Static</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144989"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144989</id>
+<updated>2024-11-01 04:41:06</updated>
+<summary></summary>
+<category term="[&quot;animated&quot;,&quot;screensaver&quot;,]"/>
+<author><name>Aethoria</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_scryerstatic-1.png"/>
 </entry>
 
 </feed>
