@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-21 12:17:00</updated>
+<updated>2024-10-23 00:08:54</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Fuzzy Finder</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144685"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144685</id>
-<updated>2024-10-21 12:17:00</updated>
-<summary></summary>
-<category term="[&quot;utilities&quot;,]"/>
-<author><name>arnaught</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_fzf-2.png"/>
-</entry>
 
 <entry>
 <title type="html">waving_flag</title>
@@ -105,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Eldritch Dream</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
-<updated>2024-10-31 20:47:06</updated>
-<summary></summary>
-<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
-<author><name>Aethoria</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Rain, my first picotron project!</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142545"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142545</id>
@@ -146,6 +124,28 @@
 <category term="[&quot;animated&quot;,&quot;screensaver&quot;,]"/>
 <author><name>Aethoria</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_scryerstatic-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Eldritch Dream</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
+<updated>2024-11-01 17:47:19</updated>
+<summary></summary>
+<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
+<author><name>Aethoria</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Rotozoom v3</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145051"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145051</id>
+<updated>2024-11-01 19:54:27</updated>
+<summary></summary>
+<category term="[&quot;demoscene&quot;,&quot;effect&quot;,]"/>
+<author><name>Eiyeron</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eyn_rotozoom-0.png"/>
 </entry>
 
 </feed>
