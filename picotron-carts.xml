@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-23 06:26:37</updated>
+<updated>2024-10-29 23:21:03</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Tronifarjan</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143191"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143191</id>
-<updated>2024-10-23 06:26:37</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>visy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pudumarsu-0.png"/>
-</entry>
-
-<entry>
-<title type="html">I seriously CANNOT stop thinking about the death of Gilles Deleuze</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144848"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144848</id>
-<updated>2024-10-23 18:51:05</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>PRINCESSINTERNETCAFe</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deleuze-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Font Utils</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141244"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141244</id>
-<updated>2024-10-25 13:50:03</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_font_utils-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
@@ -135,6 +102,39 @@
 <category term="[&quot;demoscene&quot;,&quot;effect&quot;,]"/>
 <author><name>Eiyeron</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eyn_rotozoom-0.png"/>
+</entry>
+
+<entry>
+<title type="html">PELOGEN_CATCH(3Drender test)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142815"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142815</id>
+<updated>2024-11-03 15:30:49</updated>
+<summary></summary>
+<category term="[&quot;3d&quot;,&quot;polygon&quot;,&quot;trifill&quot;,]"/>
+<author><name>shiftalow</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pelogen_catch-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Space Flight Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145103"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145103</id>
+<updated>2024-11-03 21:19:50</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;animation&quot;,]"/>
+<author><name>HowieDuhzit</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaceflight_ss-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Matrix Screensaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145104"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145104</id>
+<updated>2024-11-03 21:26:50</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;matrix&quot;,&quot;animation&quot;,]"/>
+<author><name>HowieDuhzit</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_matrix_style_screensaver-0.png"/>
 </entry>
 
 </feed>
