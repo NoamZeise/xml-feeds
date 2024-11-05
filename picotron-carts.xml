@@ -130,11 +130,22 @@
 <title type="html">Matrix Screensaver</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145104"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145104</id>
-<updated>2024-11-03 21:26:50</updated>
+<updated>2024-11-04 07:28:29</updated>
 <summary></summary>
 <category term="[&quot;screensaver&quot;,&quot;matrix&quot;,&quot;animation&quot;,]"/>
 <author><name>HowieDuhzit</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_matrix_style_screensaver-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Ccastle</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145133"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145133</id>
+<updated>2024-11-05 00:44:37</updated>
+<summary></summary>
+<category term="[&quot;game&quot;,]"/>
+<author><name>lexal</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
 </entry>
 
 </feed>
