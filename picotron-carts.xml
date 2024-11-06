@@ -17,17 +17,6 @@
 </entry>
 
 <entry>
-<title type="html">Paint</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140716"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140716</id>
-<updated>2024-10-30 01:28:21</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Cutievirus</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint-12.png"/>
-</entry>
-
-<entry>
 <title type="html">Blade3D Teapot Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144056</id>
@@ -146,6 +135,50 @@
 <category term="[&quot;game&quot;,]"/>
 <author><name>lexal</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Wavespark III: tawa suno wasoweli</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
+<updated>2024-11-05 07:22:11</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>NMcCoy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
+</entry>
+
+<entry>
+<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
+<updated>2024-11-05 19:21:30</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Paint</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140716"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140716</id>
+<updated>2024-11-05 21:12:14</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>Cutievirus</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paint-12.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Remote Terminal</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145162"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145162</id>
+<updated>2024-11-05 21:21:17</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>arnaught</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_prt-0.png"/>
 </entry>
 
 </feed>
