@@ -17,17 +17,6 @@
 </entry>
 
 <entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-10-30 18:14:43</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-8.png"/>
-</entry>
-
-<entry>
 <title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141870"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141870</id>
@@ -127,17 +116,6 @@
 </entry>
 
 <entry>
-<title type="html">Ccastle</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145133"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145133</id>
-<updated>2024-11-05 00:44:37</updated>
-<summary></summary>
-<category term="[&quot;game&quot;,]"/>
-<author><name>lexal</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
-</entry>
-
-<entry>
 <title type="html">Wavespark III: tawa suno wasoweli</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144271</id>
@@ -146,17 +124,6 @@
 <category term="[]"/>
 <author><name>NMcCoy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
-</entry>
-
-<entry>
-<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
-<updated>2024-11-05 19:21:30</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-0.png"/>
 </entry>
 
 <entry>
@@ -179,6 +146,39 @@
 <category term="[]"/>
 <author><name>arnaught</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_prt-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Blade3D Teapot Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
+<updated>2024-11-06 08:06:30</updated>
+<summary></summary>
+<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-9.png"/>
+</entry>
+
+<entry>
+<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
+<updated>2024-11-06 22:22:09</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Ccastle</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145133"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145133</id>
+<updated>2024-11-07 03:50:58</updated>
+<summary></summary>
+<category term="[&quot;game&quot;,]"/>
+<author><name>lexal</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
 </entry>
 
 </feed>
