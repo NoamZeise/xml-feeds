@@ -160,17 +160,6 @@
 </entry>
 
 <entry>
-<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
-<updated>2024-11-06 22:22:09</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-2.png"/>
-</entry>
-
-<entry>
 <title type="html">Ccastle</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145133"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145133</id>
@@ -179,6 +168,17 @@
 <category term="[&quot;game&quot;,]"/>
 <author><name>lexal</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
+<updated>2024-11-07 13:56:43</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-3.png"/>
 </entry>
 
 </feed>
