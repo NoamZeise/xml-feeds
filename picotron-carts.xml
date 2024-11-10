@@ -116,17 +116,6 @@
 </entry>
 
 <entry>
-<title type="html">Wavespark III: tawa suno wasoweli</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
-<updated>2024-11-05 07:22:11</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>NMcCoy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
-</entry>
-
-<entry>
 <title type="html">Paint</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=140716"/>
 <id>https://www.lexaloffle.com/bbs/?tid=140716</id>
@@ -190,6 +179,17 @@
 <category term="[]"/>
 <author><name>auex</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pct2-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Wavespark III: tawa suno wasoweli</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
+<updated>2024-11-10 01:46:46</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>NMcCoy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
 </entry>
 
 </feed>
