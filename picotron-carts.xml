@@ -193,17 +193,6 @@
 </entry>
 
 <entry>
-<title type="html">Star Dodger</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145091"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145091</id>
-<updated>2024-11-11 00:22:34</updated>
-<summary></summary>
-<category term="[&quot;bullet&quot;,&quot;hell&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pokibatage-1.png"/>
-</entry>
-
-<entry>
 <title type="html">Spritesheet Generator</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145269"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145269</id>
@@ -212,6 +201,17 @@
 <category term="[&quot;gfx&quot;,]"/>
 <author><name>fantasticfox</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spritesheet-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Star Dodger</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145091"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145091</id>
+<updated>2024-11-13 03:04:36</updated>
+<summary></summary>
+<category term="[&quot;bullet&quot;,&quot;hell&quot;,]"/>
+<author><name>fantasticfox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pokibatage-1.png"/>
 </entry>
 
 </feed>
