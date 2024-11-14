@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-29 23:21:03</updated>
+<updated>2024-10-31 14:08:06</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141655</id>
-<updated>2024-10-29 23:21:03</updated>
-<summary></summary>
-<category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
-<author><name>luchak</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
-</entry>
 
 <entry>
 <title type="html">&amp;quot;Drydock&amp;quot; Screensaver</title>
@@ -212,6 +201,17 @@
 <category term="[&quot;bullet&quot;,&quot;hell&quot;,]"/>
 <author><name>fantasticfox</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pokibatage-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Paddix</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
+<updated>2024-11-13 08:05:08</updated>
+<summary></summary>
+<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
+<author><name>Brendos</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico8_paddixpt-2.png"/>
 </entry>
 
 </feed>
