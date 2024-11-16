@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-31 20:48:06</updated>
+<updated>2024-10-31 22:12:56</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Rain, my first picotron project!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142545"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142545</id>
-<updated>2024-10-31 20:48:06</updated>
-<summary></summary>
-<category term="[&quot;beginner&quot;,]"/>
-<author><name>Sigmoidle</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_resuwawaya-2.png"/>
-</entry>
 
 <entry>
 <title type="html">OkPal v1.0.3 (palette editor)</title>
@@ -193,17 +182,6 @@
 </entry>
 
 <entry>
-<title type="html">Paddix</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
-<updated>2024-11-13 08:05:08</updated>
-<summary></summary>
-<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
-<author><name>Brendos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico8_paddixpt-2.png"/>
-</entry>
-
-<entry>
 <title type="html">&amp;quot;Faster Than Light&amp;quot; Screensaver</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144371"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144371</id>
@@ -212,6 +190,17 @@
 <category term="[&quot;screensaver&quot;,&quot;3d&quot;,&quot;galaxies&quot;,&quot;starfield&quot;,]"/>
 <author><name>hwd2002</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ftl_scsv-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Paddix</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
+<updated>2024-11-15 18:20:35</updated>
+<summary></summary>
+<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
+<author><name>Brendos</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico8_paddixpt-2.png"/>
 </entry>
 
 </feed>
