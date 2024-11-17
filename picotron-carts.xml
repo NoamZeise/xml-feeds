@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-10-31 22:12:56</updated>
+<updated>2024-11-01 04:41:06</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">OkPal v1.0.3 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-10-31 22:12:56</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
-</entry>
 
 <entry>
 <title type="html">Scryer Static</title>
