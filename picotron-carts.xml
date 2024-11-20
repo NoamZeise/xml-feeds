@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-01 04:41:06</updated>
+<updated>2024-11-01 19:54:27</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Scryer Static</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144989"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144989</id>
-<updated>2024-11-01 04:41:06</updated>
-<summary></summary>
-<category term="[&quot;animated&quot;,&quot;screensaver&quot;,]"/>
-<author><name>Aethoria</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_scryerstatic-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Eldritch Dream</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
-<updated>2024-11-01 17:47:19</updated>
-<summary></summary>
-<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
-<author><name>Aethoria</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Rotozoom v3</title>
@@ -190,6 +168,17 @@
 <category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
 <author><name>Brendos</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico8_paddixpt-2.png"/>
+</entry>
+
+<entry>
+<title type="html">GORGON</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141948"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141948</id>
+<updated>2024-11-19 16:42:07</updated>
+<summary></summary>
+<category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-4.png"/>
 </entry>
 
 </feed>
