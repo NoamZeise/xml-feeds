@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-01 19:54:27</updated>
+<updated>2024-11-03 15:30:49</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Rotozoom v3</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145051"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145051</id>
-<updated>2024-11-01 19:54:27</updated>
-<summary></summary>
-<category term="[&quot;demoscene&quot;,&quot;effect&quot;,]"/>
-<author><name>Eiyeron</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eyn_rotozoom-0.png"/>
-</entry>
 
 <entry>
 <title type="html">PELOGEN_CATCH(3Drender test)</title>
@@ -179,6 +168,17 @@
 <category term="[&quot;apple2&quot;,&quot;gorgon&quot;,&quot;defender&quot;,&quot;arcade&quot;,]"/>
 <author><name>BGelais</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_gorgondel-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Sort Our Ship</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2024-11-20 08:01:19</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-3.png"/>
 </entry>
 
 </feed>
