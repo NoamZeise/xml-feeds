@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-03 15:30:49</updated>
+<updated>2024-11-05 21:12:14</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PELOGEN_CATCH(3Drender test)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142815"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142815</id>
-<updated>2024-11-03 15:30:49</updated>
-<summary></summary>
-<category term="[&quot;3d&quot;,&quot;polygon&quot;,&quot;trifill&quot;,]"/>
-<author><name>shiftalow</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pelogen_catch-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Space Flight Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145103"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145103</id>
-<updated>2024-11-03 21:19:50</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;animation&quot;,]"/>
-<author><name>HowieDuhzit</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaceflight_ss-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Matrix Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145104"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145104</id>
-<updated>2024-11-04 07:28:29</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;matrix&quot;,&quot;animation&quot;,]"/>
-<author><name>HowieDuhzit</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_matrix_style_screensaver-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Paint</title>
@@ -179,6 +146,39 @@
 <category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-3.png"/>
+</entry>
+
+<entry>
+<title type="html">Cats Meeting Wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141404"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141404</id>
+<updated>2024-11-21 11:28:07</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>fleet30</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_catsmeeting-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Minesweeper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145424"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145424</id>
+<updated>2024-11-21 17:58:58</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>benni012</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweep-0.png"/>
+</entry>
+
+<entry>
+<title type="html">SQSH</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145430"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145430</id>
+<updated>2024-11-22 00:19:09</updated>
+<summary></summary>
+<category term="[&quot;pong&quot;,&quot;squash&quot;,&quot;simple&quot;,]"/>
+<author><name>PlanetTimmy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sqsh-0.png"/>
 </entry>
 
 </feed>
