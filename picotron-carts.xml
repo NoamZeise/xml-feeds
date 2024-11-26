@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-06 08:06:30</updated>
+<updated>2024-11-07 13:56:43</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-11-06 08:06:30</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-9.png"/>
-</entry>
-
-<entry>
-<title type="html">Ccastle</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145133"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145133</id>
-<updated>2024-11-07 03:50:58</updated>
-<summary></summary>
-<category term="[&quot;game&quot;,]"/>
-<author><name>lexal</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccastle-1.png"/>
-</entry>
 
 <entry>
 <title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
@@ -47,17 +25,6 @@
 <category term="[]"/>
 <author><name>auex</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pct2-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Wavespark III: tawa suno wasoweli</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
-<updated>2024-11-10 01:46:46</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>NMcCoy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
 </entry>
 
 <entry>
@@ -168,6 +135,39 @@
 <category term="[]"/>
 <author><name>benni012</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweep-1.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.3 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-11-25 22:00:46</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
+</entry>
+
+<entry>
+<title type="html">Wavespark III: tawa suno wasoweli</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
+<updated>2024-11-25 23:36:48</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>NMcCoy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
+</entry>
+
+<entry>
+<title type="html">Mode 7 Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140721"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140721</id>
+<updated>2024-11-26 04:40:12</updated>
+<summary></summary>
+<category term="[&quot;mode7&quot;,&quot;3d&quot;,&quot;demo&quot;,]"/>
+<author><name>Valden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_mode7_demo-0.png"/>
 </entry>
 
 </feed>

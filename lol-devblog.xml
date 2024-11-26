@@ -1,72 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-08-22T15:00:00.000Z</updated>
+<updated>2024-09-23T16:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">/dev: Vanguard x LoL Retrospective</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-vanguard-x-lol-retrospective</id>
-<updated>2024-08-22T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Dev Double Up: Tocker&apos;s Trials &amp; New Revival Ladder</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=7qR71KNz4AM"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=7qR71KNz4AM</id>
-<updated>2024-09-09T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: 2024 Split 3 Gameplay Changes</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-2024-split-3-gameplay-changes"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-2024-split-3-gameplay-changes</id>
-<updated>2024-09-10T17:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Matchmaking in 2024</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-matchmaking-in-2024"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-matchmaking-in-2024</id>
-<updated>2024-09-23T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Looking Forward for Arena and Swarm</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-looking-forward-for-arena-and-swarm"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-looking-forward-for-arena-and-swarm</id>
-<updated>2024-09-23T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Dev Update: Matchmaking, Seasons in 2025 &amp; More</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=h-c0BS8a5bQ"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=h-c0BS8a5bQ</id>
-<updated>2024-09-23T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Scouting out Teemo</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-scouting-out-teemo"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-scouting-out-teemo</id>
-<updated>2024-09-23T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">TL;DW: Matchmaking, Seasons in 2025 &amp; More Dev Update</title>
@@ -109,6 +46,69 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=nDQBbDLzJmE"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=nDQBbDLzJmE</id>
 <updated>2024-11-10T20:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">TFT Dev Drop: 6-Costs Enter Into the Arcane</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ</id>
+<updated>2024-11-25T15:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Season 1 Reveal, Gameplay Preview &amp; Ranked Resets</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Ranked Update Season One 2025</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-update-season-one-2025"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-update-season-one-2025</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Seasons in 2025</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">TL;DW: Season 1 Reveal, Gameplay Preview &amp; More</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-season-1-reveal-gameplay-preview-more"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-season-1-reveal-gameplay-preview-more</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Introducing Swiftplay</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-introducing-swiftplay"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-introducing-swiftplay</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: 2025 Season One Gameplay Preview</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-2025-season-one-gameplay-preview"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-2025-season-one-gameplay-preview</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
