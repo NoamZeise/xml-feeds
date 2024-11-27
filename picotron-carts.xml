@@ -149,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">Wavespark III: tawa suno wasoweli</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
-<updated>2024-11-25 23:36:48</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>NMcCoy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
-</entry>
-
-<entry>
 <title type="html">Mode 7 Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=140721"/>
 <id>https://www.lexaloffle.com/bbs/?tid=140721</id>
@@ -168,6 +157,17 @@
 <category term="[&quot;mode7&quot;,&quot;3d&quot;,&quot;demo&quot;,]"/>
 <author><name>Valden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_mode7_demo-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Wavespark III: tawa suno wasoweli</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
+<updated>2024-11-27 05:40:11</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>NMcCoy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
 </entry>
 
 </feed>
