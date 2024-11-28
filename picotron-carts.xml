@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">Minesweeper</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145424"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145424</id>
-<updated>2024-11-23 23:15:47</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>benni012</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweep-1.png"/>
-</entry>
-
-<entry>
 <title type="html">OkPal v1.0.3 (palette editor)</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141308</id>
@@ -160,10 +149,21 @@
 </entry>
 
 <entry>
+<title type="html">Minesweeper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145424"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145424</id>
+<updated>2024-11-27 10:42:36</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>benni012</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_minesweep-2.png"/>
+</entry>
+
+<entry>
 <title type="html">Wavespark III: tawa suno wasoweli</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144271</id>
-<updated>2024-11-27 05:40:11</updated>
+<updated>2024-11-27 15:48:13</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>NMcCoy</name></author>
