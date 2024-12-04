@@ -138,17 +138,6 @@
 </entry>
 
 <entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-12-02 18:19:08</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-10.png"/>
-</entry>
-
-<entry>
 <title type="html">Chance Heroes</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145787"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145787</id>
@@ -157,6 +146,17 @@
 <category term="[&quot;game&quot;,&quot;turn-based&quot;,&quot;rouge-like&quot;,&quot;hard&quot;,]"/>
 <author><name>Munchkin</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_chance_heroes-7.png"/>
+</entry>
+
+<entry>
+<title type="html">Blade3D Teapot Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
+<updated>2024-12-03 19:54:53</updated>
+<summary></summary>
+<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-10.png"/>
 </entry>
 
 </feed>
