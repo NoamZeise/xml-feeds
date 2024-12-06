@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-13 03:04:36</updated>
+<updated>2024-11-14 16:00:49</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Star Dodger</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145091"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145091</id>
-<updated>2024-11-13 03:04:36</updated>
-<summary></summary>
-<category term="[&quot;bullet&quot;,&quot;hell&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_pokibatage-1.png"/>
-</entry>
 
 <entry>
 <title type="html">&amp;quot;Faster Than Light&amp;quot; Screensaver</title>
@@ -152,7 +141,7 @@
 <title type="html">Blade3D Teapot Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-12-03 19:54:53</updated>
+<updated>2024-12-05 09:02:12</updated>
 <summary></summary>
 <category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
 <author><name>abledbody</name></author>
