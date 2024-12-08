@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-14 16:00:49</updated>
+<updated>2024-11-15 18:20:35</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">&amp;quot;Faster Than Light&amp;quot; Screensaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144371"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144371</id>
-<updated>2024-11-14 16:00:49</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;3d&quot;,&quot;galaxies&quot;,&quot;starfield&quot;,]"/>
-<author><name>hwd2002</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ftl_scsv-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Paddix</title>
