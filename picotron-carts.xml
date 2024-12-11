@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-15 18:20:35</updated>
+<updated>2024-11-19 16:42:07</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Paddix</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
-<updated>2024-11-15 18:20:35</updated>
-<summary></summary>
-<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
-<author><name>Brendos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico8_paddixpt-2.png"/>
-</entry>
 
 <entry>
 <title type="html">GORGON</title>
@@ -135,6 +124,28 @@
 <category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-10.png"/>
+</entry>
+
+<entry>
+<title type="html">snow_picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146025"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146025</id>
+<updated>2024-12-10 18:47:51</updated>
+<summary></summary>
+<category term="[&quot;picotron&quot;,&quot;screensaver&quot;,&quot;background&quot;,&quot;animation&quot;,]"/>
+<author><name>joshg</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snow_picotron-0.png"/>
+</entry>
+
+<entry>
+<title type="html">I seriously CANNOT stop thinking about the death of Gilles Deleuze</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144848"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144848</id>
+<updated>2024-12-11 01:18:50</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>PRINCESSINTERNETCAFe</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_deleuze-0.png"/>
 </entry>
 
 </feed>
