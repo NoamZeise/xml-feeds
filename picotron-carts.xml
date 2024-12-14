@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-22 00:19:09</updated>
+<updated>2024-11-23 20:31:25</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">SQSH</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145430"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145430</id>
-<updated>2024-11-22 00:19:09</updated>
-<summary></summary>
-<category term="[&quot;pong&quot;,&quot;squash&quot;,&quot;simple&quot;,]"/>
-<author><name>PlanetTimmy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sqsh-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Tiny Animation Editor 0.1</title>
@@ -105,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Sphere Impostor Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146027"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146027</id>
-<updated>2024-12-11 20:57:26</updated>
-<summary></summary>
-<category term="[&quot;impostor&quot;,&quot;sphere&quot;,&quot;demo&quot;,&quot;userdata&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sphere_impostor-4.png"/>
-</entry>
-
-<entry>
 <title type="html">Chance Heroes</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145787"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145787</id>
@@ -135,6 +113,17 @@
 <category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
 <author><name>Aethoria</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Sphere Impostor Demo</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146027"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146027</id>
+<updated>2024-12-13 06:55:57</updated>
+<summary></summary>
+<category term="[&quot;impostor&quot;,&quot;sphere&quot;,&quot;demo&quot;,&quot;userdata&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sphere_impostor-4.png"/>
 </entry>
 
 </feed>
