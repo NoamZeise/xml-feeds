@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-23 20:31:25</updated>
+<updated>2024-11-25 22:00:46</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Tiny Animation Editor 0.1</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141150"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141150</id>
-<updated>2024-11-23 20:31:25</updated>
-<summary></summary>
-<category term="[&quot;tool&quot;,&quot;animation&quot;,]"/>
-<author><name>Eiyeron</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eyn_anim_editor-7.png"/>
-</entry>
 
 <entry>
 <title type="html">OkPal v1.0.3 (palette editor)</title>
@@ -105,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Eldritch Dream</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
-<updated>2024-12-12 17:09:24</updated>
-<summary></summary>
-<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
-<author><name>Aethoria</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Sphere Impostor Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146027"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146027</id>
@@ -124,6 +102,17 @@
 <category term="[&quot;impostor&quot;,&quot;sphere&quot;,&quot;demo&quot;,&quot;userdata&quot;,]"/>
 <author><name>abledbody</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sphere_impostor-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Eldritch Dream</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145036"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145036</id>
+<updated>2024-12-15 18:05:52</updated>
+<summary></summary>
+<category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
+<author><name>Aethoria</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
 </entry>
 
 </feed>

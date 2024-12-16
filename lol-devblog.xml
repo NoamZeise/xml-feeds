@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-09-23T16:00:00.000Z</updated>
+<updated>2024-11-04T17:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">TL;DW: Matchmaking, Seasons in 2025 &amp; More Dev Update</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/tldw-matchmaking-seasons-in-2025-more-dev-update"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/tldw-matchmaking-seasons-in-2025-more-dev-update</id>
-<updated>2024-09-23T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">/Dev TFT: Magic n&apos; Mayhem Learnings</title>
@@ -69,6 +60,15 @@
 </entry>
 
 <entry>
+<title type="html">/dev: Seasons in 2025</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
 <title type="html">/dev: Ranked Update Season One 2025</title>
 <link href="https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-update-season-one-2025"/>
 <id>https://www.leagueoflegends.com/en-us/news/dev/dev-ranked-update-season-one-2025</id>
@@ -105,10 +105,10 @@
 </entry>
 
 <entry>
-<title type="html">/dev: Seasons in 2025</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
-<updated>2024-11-25T16:00:00.000Z</updated>
+<title type="html">What’s Next in 2025 | TFT Roadmap Reveal</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA</id>
+<updated>2024-12-15T10:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
