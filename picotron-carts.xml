@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-25 22:00:46</updated>
+<updated>2024-11-27 10:42:36</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">OkPal v1.0.3 (palette editor)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
-<updated>2024-11-25 22:00:46</updated>
-<summary></summary>
-<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
-<author><name>drakmaniso</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Mode 7 Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140721"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140721</id>
-<updated>2024-11-26 04:40:12</updated>
-<summary></summary>
-<category term="[&quot;mode7&quot;,&quot;3d&quot;,&quot;demo&quot;,]"/>
-<author><name>Valden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_mode7_demo-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Minesweeper</title>
@@ -83,17 +61,6 @@
 </entry>
 
 <entry>
-<title type="html">Chance Heroes</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=145787"/>
-<id>https://www.lexaloffle.com/bbs/?tid=145787</id>
-<updated>2024-12-12 13:01:00</updated>
-<summary></summary>
-<category term="[&quot;game&quot;,&quot;turn-based&quot;,&quot;rouge-like&quot;,&quot;hard&quot;,]"/>
-<author><name>Munchkin</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_chance_heroes-7.png"/>
-</entry>
-
-<entry>
 <title type="html">Sphere Impostor Demo</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146027"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146027</id>
@@ -113,6 +80,28 @@
 <category term="[&quot;animation&quot;,&quot;halloween&quot;,]"/>
 <author><name>Aethoria</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eldritchdream-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Chance Heroes</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145787"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145787</id>
+<updated>2024-12-16 09:38:20</updated>
+<summary></summary>
+<category term="[&quot;game&quot;,&quot;turn-based&quot;,&quot;rouge-like&quot;,&quot;hard&quot;,]"/>
+<author><name>Munchkin</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_chance_heroes-7.png"/>
+</entry>
+
+<entry>
+<title type="html">Escape MCP (Deluxe Picotron Arcade)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145158"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145158</id>
+<updated>2024-12-17 01:00:42</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;maze&quot;,&quot;action&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_escapmd-3.png"/>
 </entry>
 
 </feed>
