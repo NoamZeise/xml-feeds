@@ -104,4 +104,37 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_thematrixsaver-0.png"/>
 </entry>
 
+<entry>
+<title type="html">Snowglobe</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146191"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146191</id>
+<updated>2024-12-18 18:41:11</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>arnaught</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snowglobe2024-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Bomber</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143194"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143194</id>
+<updated>2024-12-18 21:35:00</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>JThburvs</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
+</entry>
+
+<entry>
+<title type="html">picocalendar</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142243</id>
+<updated>2024-12-19 02:41:55</updated>
+<summary></summary>
+<category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
+<author><name>pck404</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-2.png"/>
+</entry>
+
 </feed>
