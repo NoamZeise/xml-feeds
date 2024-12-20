@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-12-05 09:02:12</updated>
+<updated>2024-12-10 18:47:51</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-12-05 09:02:12</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-10.png"/>
-</entry>
 
 <entry>
 <title type="html">snow_picotron</title>
@@ -94,17 +83,6 @@
 </entry>
 
 <entry>
-<title type="html">thematrixsaver</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146176"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146176</id>
-<updated>2024-12-18 01:48:05</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,&quot;thematrix&quot;,]"/>
-<author><name>Rybar</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_thematrixsaver-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Snowglobe</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146191"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146191</id>
@@ -130,11 +108,33 @@
 <title type="html">picocalendar</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=142243"/>
 <id>https://www.lexaloffle.com/bbs/?tid=142243</id>
-<updated>2024-12-19 02:41:55</updated>
+<updated>2024-12-19 07:08:40</updated>
 <summary></summary>
 <category term="[&quot;tools&quot;,&quot;calendar&quot;,&quot;agenda&quot;,&quot;wip&quot;,]"/>
 <author><name>pck404</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picocalendar-2.png"/>
+</entry>
+
+<entry>
+<title type="html">thematrixsaver</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146176"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146176</id>
+<updated>2024-12-20 03:57:15</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,&quot;thematrix&quot;,]"/>
+<author><name>Rybar</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_thematrixsaver-0.png"/>
+</entry>
+
+<entry>
+<title type="html">maze wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143520"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143520</id>
+<updated>2024-12-20 06:14:01</updated>
+<summary></summary>
+<category term="[&quot;wallpaper&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_zamuwawaje-0.png"/>
 </entry>
 
 </feed>
