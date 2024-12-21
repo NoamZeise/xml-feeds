@@ -72,17 +72,6 @@
 </entry>
 
 <entry>
-<title type="html">jumpac</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146175"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146175</id>
-<updated>2024-12-18 00:31:24</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;action&quot;,&quot;pacman&quot;,&quot;jump&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpac-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Snowglobe</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146191"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146191</id>
@@ -134,7 +123,40 @@
 <summary></summary>
 <category term="[&quot;wallpaper&quot;,]"/>
 <author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_zamuwawaje-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_zamuwawaje-1.png"/>
+</entry>
+
+<entry>
+<title type="html">jumpac</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146175"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146175</id>
+<updated>2024-12-20 19:35:05</updated>
+<summary></summary>
+<category term="[&quot;arcade&quot;,&quot;action&quot;,&quot;pacman&quot;,&quot;jump&quot;,]"/>
+<author><name>BGelais</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpac-1.png"/>
+</entry>
+
+<entry>
+<title type="html">OkPal v1.0.3 (palette editor)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141308"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141308</id>
+<updated>2024-12-20 19:42:06</updated>
+<summary></summary>
+<category term="[&quot;palette&quot;,&quot;color&quot;,]"/>
+<author><name>drakmaniso</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_okpal-6.png"/>
+</entry>
+
+<entry>
+<title type="html">skytest_hello</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140679"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140679</id>
+<updated>2024-12-21 00:25:35</updated>
+<summary></summary>
+<category term="[&quot;hello&quot;,&quot;music&quot;,]"/>
+<author><name>shiftalow</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_skytest_hello-2.png"/>
 </entry>
 
 </feed>
