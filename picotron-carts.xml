@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-12-22 11:51:02</updated>
+<updated>2024-12-25 19:37:47</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PICOPHONE (miniOS) multi-tool widget</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141568"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141568</id>
-<updated>2024-12-22 11:51:02</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;tools&quot;,&quot;phone&quot;,&quot;widget&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phone-25.png"/>
-</entry>
 
 <entry>
 <title type="html">jumpac</title>
@@ -146,6 +135,17 @@
 <category term="[&quot;screensaver&quot;,]"/>
 <author><name>SophieHoulden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_matrix_screensaver-1.png"/>
+</entry>
+
+<entry>
+<title type="html">drawtime</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146435"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146435</id>
+<updated>2025-01-06 03:32:22</updated>
+<summary></summary>
+<category term="[&quot;drawing&quot;,]"/>
+<author><name>FlavoredSaucer</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drawtime-2.png"/>
 </entry>
 
 </feed>
