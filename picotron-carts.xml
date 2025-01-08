@@ -145,7 +145,7 @@
 <summary></summary>
 <category term="[&quot;drawing&quot;,]"/>
 <author><name>FlavoredSaucer</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drawtime-2.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_drawtime-3.png"/>
 </entry>
 
 <entry>
@@ -168,6 +168,17 @@
 <category term="[&quot;web&quot;,&quot;browser&quot;,&quot;html&quot;,]"/>
 <author><name>369369369</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Paddix</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
+<updated>2025-01-07 07:29:06</updated>
+<summary></summary>
+<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
+<author><name>Brendos</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-3.png"/>
 </entry>
 
 </feed>
