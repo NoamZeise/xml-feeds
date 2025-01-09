@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-12-25 19:37:47</updated>
+<updated>2024-12-28 08:32:05</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">jumpac</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146175"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146175</id>
-<updated>2024-12-25 19:37:47</updated>
-<summary></summary>
-<category term="[&quot;arcade&quot;,&quot;action&quot;,&quot;pacman&quot;,&quot;jump&quot;,]"/>
-<author><name>BGelais</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jumpac-2.png"/>
-</entry>
-
-<entry>
-<title type="html">png2gfx</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146272"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146272</id>
-<updated>2024-12-26 07:07:52</updated>
-<summary></summary>
-<category term="[&quot;png&quot;,&quot;import&quot;,&quot;sprite&quot;,&quot;gfx&quot;,]"/>
-<author><name>Cirius</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_png2gfx-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Phoenix</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143280"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143280</id>
-<updated>2024-12-27 19:12:35</updated>
-<summary></summary>
-<category term="[&quot;game&quot;,&quot;arcade&quot;,]"/>
-<author><name>pahammond</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_phoenix_picotron-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Blade3D Teapot Demo</title>
@@ -179,6 +146,50 @@
 <category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
 <author><name>Brendos</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-3.png"/>
+</entry>
+
+<entry>
+<title type="html">flying_picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141537"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141537</id>
+<updated>2025-01-08 15:11:27</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,]"/>
+<author><name>Svetlana</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flying_picotron-2.png"/>
+</entry>
+
+<entry>
+<title type="html">ripple_wallpaper</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140918"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140918</id>
+<updated>2025-01-08 20:55:31</updated>
+<summary></summary>
+<category term="[&quot;desktop&quot;,&quot;wallpaper&quot;,]"/>
+<author><name>robthedude</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ripple_wallpaper-0.png"/>
+</entry>
+
+<entry>
+<title type="html">basic raycaster</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146501"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146501</id>
+<updated>2025-01-09 03:11:11</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>eigenbom</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eigenbom_raycaster-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Luncher</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146502"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146502</id>
+<updated>2025-01-09 04:59:29</updated>
+<summary></summary>
+<category term="[&quot;luncher&quot;,]"/>
+<author><name>AmosNimos</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rukeyijufi-0.png"/>
 </entry>
 
 </feed>
