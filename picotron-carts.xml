@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-12-28 08:32:05</updated>
+<updated>2024-12-29 08:46:37</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Blade3D Teapot Demo</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144056"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144056</id>
-<updated>2024-12-28 08:32:05</updated>
-<summary></summary>
-<category term="[&quot;api&quot;,&quot;teapot&quot;,&quot;demo&quot;,&quot;3d&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_b3d_teapot-11.png"/>
-</entry>
-
-<entry>
-<title type="html">Aseprite Sprite Sheet Import</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146285"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146285</id>
-<updated>2024-12-28 13:50:53</updated>
-<summary></summary>
-<category term="[&quot;aseprite&quot;,&quot;sprite&quot;,&quot;sheet&quot;,&quot;import&quot;,]"/>
-<author><name>Cirius</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_aseprite_import-3.png"/>
-</entry>
 
 <entry>
 <title type="html">ruler 1.0</title>
@@ -174,7 +152,7 @@
 <title type="html">basic raycaster</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146501"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146501</id>
-<updated>2025-01-09 03:11:11</updated>
+<updated>2025-01-09 14:31:53</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>eigenbom</name></author>
@@ -185,11 +163,11 @@
 <title type="html">Picotron Luncher</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146502"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146502</id>
-<updated>2025-01-09 04:59:29</updated>
+<updated>2025-01-10 02:54:05</updated>
 <summary></summary>
 <category term="[&quot;luncher&quot;,]"/>
 <author><name>AmosNimos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rukeyijufi-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_luncher_v02-0.png"/>
 </entry>
 
 </feed>
