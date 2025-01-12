@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-01 02:47:54</updated>
+<updated>2025-01-04 00:00:48</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Dodecahedron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144599"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144599</id>
-<updated>2025-01-01 02:47:54</updated>
-<summary></summary>
-<category term="[&quot;3d&quot;,&quot;picotron&quot;,&quot;dodecahedron&quot;,&quot;geometry&quot;,]"/>
-<author><name>Profi06</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_dodecahedron-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Happy New Year!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146371"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146371</id>
-<updated>2025-01-02 17:01:37</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>MBoffin</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_happy_new_year-0.png"/>
-</entry>
-
-<entry>
-<title type="html">timex watch</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146359"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146359</id>
-<updated>2025-01-02 18:17:34</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>neilcol</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neilcol_pt_timex-0.png"/>
-</entry>
 
 <entry>
 <title type="html">PicoShop!</title>
@@ -168,6 +135,17 @@
 <category term="[]"/>
 <author><name>eigenbom</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eigenbom_raycaster-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Bomber</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=143194"/>
+<id>https://www.lexaloffle.com/bbs/?tid=143194</id>
+<updated>2025-01-11 23:46:55</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>JThburvs</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
 </entry>
 
 </feed>
