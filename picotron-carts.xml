@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-04 00:00:48</updated>
+<updated>2025-01-05 04:07:33</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PicoShop!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146425"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146425</id>
-<updated>2025-01-04 00:00:48</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>Aolotl</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picoshop-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Matrix Screensaver</title>
@@ -146,6 +135,28 @@
 <category term="[]"/>
 <author><name>JThburvs</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Sort Our Ship</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
+<updated>2025-01-13 00:55:22</updated>
+<summary></summary>
+<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
+<author><name>abledbody</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-4.png"/>
+</entry>
+
+<entry>
+<title type="html">Better Print (accents, l&amp;middot;l and &amp;ccedil;) 1.0</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146551"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146551</id>
+<updated>2025-01-13 01:10:10</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;custom-font&quot;,]"/>
+<author><name>EsPiA13</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jocsencat_bprint-0.png"/>
 </entry>
 
 </feed>
