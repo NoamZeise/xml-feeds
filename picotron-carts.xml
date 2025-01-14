@@ -159,4 +159,15 @@
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jocsencat_bprint-0.png"/>
 </entry>
 
+<entry>
+<title type="html">PicoChat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
+<updated>2025-01-14 01:51:13</updated>
+<summary></summary>
+<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
+</entry>
+
 </feed>
