@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-04T17:00:00.000Z</updated>
+<updated>2024-11-06T14:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">/Dev TFT: Magic n&apos; Mayhem Learnings</title>
-<link href="https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-magic-n-mayhem-learnings/"/>
-<id>https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-tft-magic-n-mayhem-learnings/</id>
-<updated>2024-11-04T17:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">/Dev Quality of Life Improvements</title>
@@ -109,6 +100,15 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA</id>
 <updated>2024-12-15T10:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Blue Essence and Account XP Update</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/blue-essence-and-account-xp-update"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/blue-essence-and-account-xp-update</id>
+<updated>2025-01-15T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
