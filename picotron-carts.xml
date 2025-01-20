@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-07 02:05:09</updated>
+<updated>2025-01-08 20:55:31</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">picoGO - Text based Web Browser (alpha release)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143538"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143538</id>
-<updated>2025-01-07 02:05:09</updated>
-<summary></summary>
-<category term="[&quot;web&quot;,&quot;browser&quot;,&quot;html&quot;,]"/>
-<author><name>369369369</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picogo-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Paddix</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144701"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144701</id>
-<updated>2025-01-07 07:29:06</updated>
-<summary></summary>
-<category term="[&quot;boardgame&quot;,&quot;multiplayer&quot;,&quot;2player&quot;,]"/>
-<author><name>Brendos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_paddixpt-3.png"/>
-</entry>
-
-<entry>
-<title type="html">flying_picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141537"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141537</id>
-<updated>2025-01-08 15:11:27</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,]"/>
-<author><name>Svetlana</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flying_picotron-2.png"/>
-</entry>
 
 <entry>
 <title type="html">ripple_wallpaper</title>
@@ -168,6 +135,61 @@
 <category term="[]"/>
 <author><name>sugarflower</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_internettime-0.png"/>
+</entry>
+
+<entry>
+<title type="html">String Theory</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
+<updated>2025-01-19 17:43:00</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Sushi Sweep 2</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146639"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146639</id>
+<updated>2025-01-20 00:24:44</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
+</entry>
+
+<entry>
+<title type="html">Sushi Sweep 3</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146642"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146642</id>
+<updated>2025-01-20 01:52:25</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
+</entry>
+
+<entry>
+<title type="html">Sushi Sweep</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146637</id>
+<updated>2025-01-20 04:52:11</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Sushi Sweep 4</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146647"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146647</id>
+<updated>2025-01-20 04:54:45</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
 </entry>
 
 </feed>
