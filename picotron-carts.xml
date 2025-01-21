@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-08 20:55:31</updated>
+<updated>2025-01-08 15:11:27</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
+
+<entry>
+<title type="html">flying_picotron</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141537"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141537</id>
+<updated>2025-01-08 15:11:27</updated>
+<summary></summary>
+<category term="[&quot;screensaver&quot;,]"/>
+<author><name>Svetlana</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flying_picotron-2.png"/>
+</entry>
 
 <entry>
 <title type="html">ripple_wallpaper</title>
@@ -149,47 +160,14 @@
 </entry>
 
 <entry>
-<title type="html">Sushi Sweep 2</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146639"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146639</id>
-<updated>2025-01-20 00:24:44</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
-</entry>
-
-<entry>
-<title type="html">Sushi Sweep 3</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146642"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146642</id>
-<updated>2025-01-20 01:52:25</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
-</entry>
-
-<entry>
 <title type="html">Sushi Sweep</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146637</id>
-<updated>2025-01-20 04:52:11</updated>
+<updated>2025-01-20 22:45:16</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-2.png"/>
-</entry>
-
-<entry>
-<title type="html">Sushi Sweep 4</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146647"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146647</id>
-<updated>2025-01-20 04:54:45</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bimg/pi/pi25.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-5.png"/>
 </entry>
 
 </feed>
