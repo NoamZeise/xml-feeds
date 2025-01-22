@@ -149,17 +149,6 @@
 </entry>
 
 <entry>
-<title type="html">String Theory</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
-<updated>2025-01-19 17:43:00</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
-</entry>
-
-<entry>
 <title type="html">Sushi Sweep</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146637</id>
@@ -168,6 +157,17 @@
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-5.png"/>
+</entry>
+
+<entry>
+<title type="html">String Theory</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
+<updated>2025-01-21 08:14:09</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
 </entry>
 
 </feed>
