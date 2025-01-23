@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-08 15:11:27</updated>
+<updated>2025-01-08 20:55:31</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">flying_picotron</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141537"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141537</id>
-<updated>2025-01-08 15:11:27</updated>
-<summary></summary>
-<category term="[&quot;screensaver&quot;,]"/>
-<author><name>Svetlana</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_flying_picotron-2.png"/>
-</entry>
 
 <entry>
 <title type="html">ripple_wallpaper</title>
@@ -168,6 +157,17 @@
 <category term="[]"/>
 <author><name>xietanu</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=142329"/>
+<id>https://www.lexaloffle.com/bbs/?tid=142329</id>
+<updated>2025-01-23 00:34:43</updated>
+<summary></summary>
+<category term="[&quot;remaster&quot;,&quot;slimepires&quot;,&quot;platformer&quot;,]"/>
+<author><name>SophieHoulden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_slimepires-0.png"/>
 </entry>
 
 </feed>
