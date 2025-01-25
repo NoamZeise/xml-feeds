@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-09 03:36:38</updated>
+<updated>2025-01-10 14:59:46</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picotron Luncher V3</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146502"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146502</id>
-<updated>2025-01-09 03:36:38</updated>
-<summary></summary>
-<category term="[&quot;luncher&quot;,]"/>
-<author><name>AmosNimos</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_luncher_v02-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Trash Manager</title>
