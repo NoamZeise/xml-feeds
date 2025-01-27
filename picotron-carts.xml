@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-10 14:59:46</updated>
+<updated>2025-01-10 21:43:34</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Trash Manager</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146519"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146519</id>
-<updated>2025-01-10 14:59:46</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;desktop&quot;,&quot;trash&quot;,]"/>
-<author><name>arnaught</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_trashman-0.png"/>
-</entry>
 
 <entry>
 <title type="html">basic raycaster</title>
@@ -141,11 +130,11 @@
 <title type="html">Sushi Sweep</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146637</id>
-<updated>2025-01-24 00:37:43</updated>
+<updated>2025-01-26 16:45:11</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-8.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-10.png"/>
 </entry>
 
 </feed>
