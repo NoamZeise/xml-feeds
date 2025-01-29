@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-10 21:43:34</updated>
+<updated>2025-01-13 00:55:22</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">basic raycaster</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146501"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146501</id>
-<updated>2025-01-10 21:43:34</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>eigenbom</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_eigenbom_raycaster-1.png"/>
-</entry>
-
-<entry>
-<title type="html">Bomber</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143194"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143194</id>
-<updated>2025-01-11 23:46:55</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>JThburvs</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bomber-2.png"/>
-</entry>
 
 <entry>
 <title type="html">Sort Our Ship</title>
@@ -135,6 +113,28 @@
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-10.png"/>
+</entry>
+
+<entry>
+<title type="html">Bubbleverse</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146811"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146811</id>
+<updated>2025-01-27 19:25:06</updated>
+<summary></summary>
+<category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
+<author><name>boggo</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bubbleverse-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141655</id>
+<updated>2025-01-28 18:55:59</updated>
+<summary></summary>
+<category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
+<author><name>luchak</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
 </entry>
 
 </feed>
