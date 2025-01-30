@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-06T14:00:00.000Z</updated>
+<updated>2024-11-08T16:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">/Dev Quality of Life Improvements</title>
-<link href="https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-quality-of-life-improvements/"/>
-<id>https://www.leagueoflegends.comhttps://teamfighttactics.leagueoflegends.com/en-us/news/dev/dev-quality-of-life-improvements/</id>
-<updated>2024-11-06T14:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">Champion Insights: Ambessa</title>
@@ -37,15 +28,6 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ</id>
 <updated>2024-11-25T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">Dev Update: Season 1 Reveal, Gameplay Preview &amp; Ranked Resets</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ</id>
-<updated>2024-11-25T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
@@ -96,6 +78,15 @@
 </entry>
 
 <entry>
+<title type="html">Dev Update: Season 1 Reveal, Gameplay Preview &amp; Ranked Resets</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
 <title type="html">What’s Next in 2025 | TFT Roadmap Reveal</title>
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=Nq6YIQ4EcEA</id>
@@ -109,6 +100,15 @@
 <link href="https://www.leagueoflegends.com/en-us/news/dev/blue-essence-and-account-xp-update"/>
 <id>https://www.leagueoflegends.com/en-us/news/dev/blue-essence-and-account-xp-update</id>
 <updated>2025-01-15T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Dev Double Up: Making Unbound and Chibi Tacticians</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=wvHbfxNcfgk"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=wvHbfxNcfgk</id>
+<updated>2025-01-29T14:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>

@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-13 00:55:22</updated>
+<updated>2025-01-14 01:51:13</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Sort Our Ship</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=142305"/>
-<id>https://www.lexaloffle.com/bbs/?tid=142305</id>
-<updated>2025-01-13 00:55:22</updated>
-<summary></summary>
-<category term="[&quot;sorting&quot;,&quot;algorithm&quot;,&quot;novelty&quot;,&quot;visualization&quot;,]"/>
-<author><name>abledbody</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sort_our_ship-4.png"/>
-</entry>
-
-<entry>
-<title type="html">Better Print (accents, l&amp;middot;l and &amp;ccedil;) 1.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146551"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146551</id>
-<updated>2025-01-13 01:10:10</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;custom-font&quot;,]"/>
-<author><name>EsPiA13</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_jocsencat_bprint-0.png"/>
-</entry>
 
 <entry>
 <title type="html">PicoChat</title>
@@ -135,6 +113,39 @@
 <category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
 <author><name>luchak</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
+</entry>
+
+<entry>
+<title type="html">timex watch</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146359"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146359</id>
+<updated>2025-01-29 10:03:51</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>neilcol</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neilcol_pt_timex-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Desktop Pet</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=140876"/>
+<id>https://www.lexaloffle.com/bbs/?tid=140876</id>
+<updated>2025-01-29 15:06:40</updated>
+<summary></summary>
+<category term="[&quot;pet&quot;,&quot;desktop&quot;,&quot;companion&quot;,&quot;cat&quot;,]"/>
+<author><name>cubee</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_desktop_pet-3.png"/>
+</entry>
+
+<entry>
+<title type="html">PoKer</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146857"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146857</id>
+<updated>2025-01-29 17:33:45</updated>
+<summary></summary>
+<category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_poker1a-0.png"/>
 </entry>
 
 </feed>
