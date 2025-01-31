@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-14 01:51:13</updated>
+<updated>2025-01-15 07:15:56</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PicoChat</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
-<updated>2025-01-14 01:51:13</updated>
-<summary></summary>
-<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
-</entry>
 
 <entry>
 <title type="html">trackercmd</title>
@@ -138,14 +127,36 @@
 </entry>
 
 <entry>
+<title type="html">savepalette (for Aseprite)</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146865"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146865</id>
+<updated>2025-01-30 07:25:00</updated>
+<summary></summary>
+<category term="[&quot;wip&quot;,&quot;palette&quot;,&quot;aseprite&quot;,]"/>
+<author><name>sugarflower</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_savepalette-0.png"/>
+</entry>
+
+<entry>
 <title type="html">PoKer</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146857"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146857</id>
-<updated>2025-01-29 17:33:45</updated>
+<link href="https://www.lexaloffle.com/bbs/?tid=146886"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146886</id>
+<updated>2025-01-30 21:41:21</updated>
 <summary></summary>
 <category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
 <author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_poker1a-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/27050/5_poker.jpg"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Controls Reference in tooltray</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146872"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146872</id>
+<updated>2025-01-30 23:24:38</updated>
+<summary></summary>
+<category term="[&quot;utility&quot;,&quot;picotron&quot;,]"/>
+<author><name>earcrayola</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_controls_ref-0.png"/>
 </entry>
 
 </feed>
