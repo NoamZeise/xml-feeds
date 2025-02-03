@@ -1,53 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-15 07:15:56</updated>
+<updated>2025-01-23 00:34:43</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">trackercmd</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=143261"/>
-<id>https://www.lexaloffle.com/bbs/?tid=143261</id>
-<updated>2025-01-15 07:15:56</updated>
-<summary></summary>
-<category term="[&quot;cheetsheet&quot;,&quot;tooltray&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_trackercmd-5.png"/>
-</entry>
-
-<entry>
-<title type="html">Conway&apos;s Game of Life (with PVP)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146583"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146583</id>
-<updated>2025-01-15 19:27:20</updated>
-<summary></summary>
-<category term="[&quot;conway&quot;,&quot;game-of-life&quot;,]"/>
-<author><name>arnaught</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_conway_pvp-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Miditron - The first midi to picotron conversion tool!</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141566"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141566</id>
-<updated>2025-01-15 23:17:42</updated>
-<summary></summary>
-<category term="[&quot;midi&quot;,&quot;music&quot;,&quot;conversion&quot;,&quot;sfx&quot;,]"/>
-<author><name>raulboo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/54921/miditron_01.p64.png"/>
-</entry>
-
-<entry>
-<title type="html">internettime</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146516"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146516</id>
-<updated>2025-01-18 08:49:46</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_internettime-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Return of the SLIMEPIRES! - Remastered for Picotron!</title>
@@ -168,6 +124,39 @@
 <category term="[&quot;desktop-pet&quot;,&quot;cat&quot;,&quot;programmerart&quot;,&quot;companion&quot;,]"/>
 <author><name>cubee</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_desktop_pet-6.png"/>
+</entry>
+
+<entry>
+<title type="html">PicoChat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
+<updated>2025-02-02 18:27:45</updated>
+<summary></summary>
+<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
+</entry>
+
+<entry>
+<title type="html">Rainbow Bobs</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146959"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146959</id>
+<updated>2025-02-02 19:21:39</updated>
+<summary></summary>
+<category term="[&quot;demoscene&quot;,&quot;scanline&quot;,&quot;palettes&quot;,]"/>
+<author><name>Rybar</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rainbow_bobs-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Geo2D examples</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146970"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146970</id>
+<updated>2025-02-03 06:01:45</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>eigenbom</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_geo2d_examples-0.png"/>
 </entry>
 
 </feed>
