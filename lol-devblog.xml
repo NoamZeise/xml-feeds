@@ -1,18 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-08T16:00:00.000Z</updated>
+<updated>2024-11-10T20:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">Champion Insights: Ambessa</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=J_TQK480XDk"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=J_TQK480XDk</id>
-<updated>2024-11-08T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">TFT Dev Drop: Into the Arcane</title>
@@ -28,15 +19,6 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ</id>
 <updated>2024-11-25T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Seasons in 2025</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
-<updated>2024-11-25T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
@@ -78,6 +60,15 @@
 </entry>
 
 <entry>
+<title type="html">/dev: Seasons in 2025</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
+<updated>2024-11-25T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
 <title type="html">Dev Update: Season 1 Reveal, Gameplay Preview &amp; Ranked Resets</title>
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=3zx1PwFXFdQ</id>
@@ -109,6 +100,15 @@
 <link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=wvHbfxNcfgk"/>
 <id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=wvHbfxNcfgk</id>
 <updated>2025-01-29T14:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Skins 101</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/skins-101"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/skins-101</id>
+<updated>2025-02-04T17:30:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
