@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">PicoChat</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
-<updated>2025-02-02 18:27:45</updated>
-<summary></summary>
-<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
-</entry>
-
-<entry>
 <title type="html">Rainbow Bobs</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146959"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146959</id>
@@ -157,6 +146,28 @@
 <category term="[]"/>
 <author><name>eigenbom</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_geo2d_examples-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Chaotic Computer Music Emulation Engine</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147004"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147004</id>
+<updated>2025-02-06 00:14:06</updated>
+<summary></summary>
+<category term="[&quot;composition&quot;,&quot;synth&quot;,]"/>
+<author><name>fantasticfox</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccmee-1.png"/>
+</entry>
+
+<entry>
+<title type="html">PicoChat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
+<updated>2025-02-06 05:51:31</updated>
+<summary></summary>
+<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
 </entry>
 
 </feed>
