@@ -160,17 +160,6 @@
 </entry>
 
 <entry>
-<title type="html">Wavespark III: tawa suno wasoweli</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
-<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
-<updated>2025-02-06 19:11:42</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>NMcCoy</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-15.png"/>
-</entry>
-
-<entry>
 <title type="html">SpaghettiCode</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147028</id>
@@ -179,6 +168,17 @@
 <category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
 <author><name>xietanu</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Wavespark III: tawa suno wasoweli</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
+<id>https://www.lexaloffle.com/bbs/?tid=144271</id>
+<updated>2025-02-08 03:42:09</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>NMcCoy</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-16.png"/>
 </entry>
 
 </feed>

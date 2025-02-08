@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.leagueoflegends.com/en-us/news/dev/" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2024-11-10T20:00:00.000Z</updated>
+<updated>2024-11-25T16:00:00.000Z</updated>
 <id>https://www.leagueoflegends.com/en-us/news/dev/</id>
 <title>League of Legends Dev Blog</title>
-
-<entry>
-<title type="html">TFT Dev Drop: Into the Arcane</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=nDQBbDLzJmE"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=nDQBbDLzJmE</id>
-<updated>2024-11-10T20:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">TFT Dev Drop: 6-Costs Enter Into the Arcane</title>
-<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ"/>
-<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=4TlrbqidhCQ</id>
-<updated>2024-11-25T15:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
 
 <entry>
 <title type="html">/dev: Ranked Update Season One 2025</title>
@@ -54,15 +36,6 @@
 <title type="html">/dev: 2025 Season One Gameplay Preview</title>
 <link href="https://www.leagueoflegends.com/en-us/news/dev/dev-2025-season-one-gameplay-preview"/>
 <id>https://www.leagueoflegends.com/en-us/news/dev/dev-2025-season-one-gameplay-preview</id>
-<updated>2024-11-25T16:00:00.000Z</updated>
-<summary></summary>
-<author><name></name></author>
-</entry>
-
-<entry>
-<title type="html">/dev: Seasons in 2025</title>
-<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025"/>
-<id>https://www.leagueoflegends.com/en-us/news/dev/dev-seasons-in-2025</id>
 <updated>2024-11-25T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
@@ -109,6 +82,33 @@
 <link href="https://www.leagueoflegends.com/en-us/news/dev/skins-101"/>
 <id>https://www.leagueoflegends.com/en-us/news/dev/skins-101</id>
 <updated>2025-02-04T17:30:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">Dev Update: Season One Check-in</title>
+<link href="https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=-h56OC1gqAM"/>
+<id>https://www.leagueoflegends.comhttps://www.youtube.com/watch?v=-h56OC1gqAM</id>
+<updated>2025-02-07T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: How the Season 1 Changes Landed</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-how-the-season-1-changes-landed"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-how-the-season-1-changes-landed</id>
+<updated>2025-02-07T16:00:00.000Z</updated>
+<summary></summary>
+<author><name></name></author>
+</entry>
+
+<entry>
+<title type="html">/dev: Arena - the Grand Reckoning</title>
+<link href="https://www.leagueoflegends.com/en-us/news/dev/dev-arena-the-grand-reckoning"/>
+<id>https://www.leagueoflegends.com/en-us/news/dev/dev-arena-the-grand-reckoning</id>
+<updated>2025-02-07T16:00:00.000Z</updated>
 <summary></summary>
 <author><name></name></author>
 </entry>
