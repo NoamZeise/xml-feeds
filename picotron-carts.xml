@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-26 16:45:11</updated>
+<updated>2025-01-28 18:55:59</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Sushi Sweep</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146637</id>
-<updated>2025-01-26 16:45:11</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>peterhodgden</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-10.png"/>
-</entry>
-
-<entry>
-<title type="html">Bubbleverse</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146811"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146811</id>
-<updated>2025-01-27 19:25:06</updated>
-<summary></summary>
-<category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
-<author><name>boggo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bubbleverse-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
@@ -116,17 +94,6 @@
 </entry>
 
 <entry>
-<title type="html">Geo2D examples</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146970"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146970</id>
-<updated>2025-02-03 06:01:45</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>eigenbom</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_geo2d_examples-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Chaotic Computer Music Emulation Engine</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147004"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147004</id>
@@ -135,17 +102,6 @@
 <category term="[&quot;composition&quot;,&quot;synth&quot;,]"/>
 <author><name>fantasticfox</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccmee-1.png"/>
-</entry>
-
-<entry>
-<title type="html">PicoChat</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
-<updated>2025-02-06 05:51:31</updated>
-<summary></summary>
-<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
 </entry>
 
 <entry>
@@ -160,17 +116,6 @@
 </entry>
 
 <entry>
-<title type="html">SpaghettiCode</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
-<updated>2025-02-06 21:45:39</updated>
-<summary></summary>
-<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
-<author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Wavespark III: tawa suno wasoweli</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=144271"/>
 <id>https://www.lexaloffle.com/bbs/?tid=144271</id>
@@ -179,6 +124,72 @@
 <category term="[]"/>
 <author><name>NMcCoy</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_wavespark3-16.png"/>
+</entry>
+
+<entry>
+<title type="html">SpaghettiCode</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
+<updated>2025-02-08 08:44:57</updated>
+<summary></summary>
+<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Geo2D examples</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146970"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146970</id>
+<updated>2025-02-08 10:23:26</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>eigenbom</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_geo2d_examples-0.png"/>
+</entry>
+
+<entry>
+<title type="html">String Theory</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
+<updated>2025-02-08 17:52:26</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
+</entry>
+
+<entry>
+<title type="html">winter never ended</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147087"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147087</id>
+<updated>2025-02-09 00:11:50</updated>
+<summary></summary>
+<category term="[&quot;roleplaying&quot;,&quot;rpg&quot;,]"/>
+<author><name>bugbard</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93927/dumbass100px.png"/>
+</entry>
+
+<entry>
+<title type="html">Bubbleverse</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146811"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146811</id>
+<updated>2025-02-09 04:53:54</updated>
+<summary></summary>
+<category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
+<author><name>boggo</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_midibekeji-0.png"/>
+</entry>
+
+<entry>
+<title type="html">PicoChat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
+<updated>2025-02-09 05:27:45</updated>
+<summary></summary>
+<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
 </entry>
 
 </feed>
