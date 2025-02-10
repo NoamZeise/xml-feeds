@@ -127,17 +127,6 @@
 </entry>
 
 <entry>
-<title type="html">SpaghettiCode</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
-<updated>2025-02-08 08:44:57</updated>
-<summary></summary>
-<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
-<author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Geo2D examples</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146970"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146970</id>
@@ -190,6 +179,17 @@
 <category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
 <author><name>Hessery</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
+</entry>
+
+<entry>
+<title type="html">SpaghettiCode</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
+<updated>2025-02-09 19:34:22</updated>
+<summary></summary>
+<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
 </entry>
 
 </feed>
