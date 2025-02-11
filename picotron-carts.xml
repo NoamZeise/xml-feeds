@@ -138,17 +138,6 @@
 </entry>
 
 <entry>
-<title type="html">String Theory</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
-<updated>2025-02-08 17:52:26</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
-</entry>
-
-<entry>
 <title type="html">winter never ended</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147087"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147087</id>
@@ -182,14 +171,25 @@
 </entry>
 
 <entry>
-<title type="html">SpaghettiCode</title>
+<title type="html">String Theory</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146628</id>
+<updated>2025-02-10 22:32:57</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_string_theory-1.png"/>
+</entry>
+
+<entry>
+<title type="html">SpaghettiCode v0.2.0</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147028</id>
-<updated>2025-02-09 19:34:22</updated>
+<updated>2025-02-10 22:43:53</updated>
 <summary></summary>
 <category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
 <author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-2.png"/>
 </entry>
 
 </feed>
