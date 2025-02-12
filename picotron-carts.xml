@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-28 18:55:59</updated>
+<updated>2025-01-30 07:25:00</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Picotron PCM: Yet Another Lazy Procedural Acid Cart</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141655"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141655</id>
-<updated>2025-01-28 18:55:59</updated>
-<summary></summary>
-<category term="[&quot;audio&quot;,&quot;pcm&quot;,&quot;acid&quot;,]"/>
-<author><name>luchak</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_lazy_procedural_acid_picotron-3.png"/>
-</entry>
-
-<entry>
-<title type="html">timex watch</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146359"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146359</id>
-<updated>2025-01-29 10:03:51</updated>
-<summary></summary>
-<category term="[]"/>
-<author><name>neilcol</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_neilcol_pt_timex-0.png"/>
-</entry>
 
 <entry>
 <title type="html">savepalette (for Aseprite)</title>
@@ -185,7 +163,7 @@
 <title type="html">SpaghettiCode v0.2.0</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147028</id>
-<updated>2025-02-10 22:43:53</updated>
+<updated>2025-02-11 15:19:40</updated>
 <summary></summary>
 <category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
 <author><name>xietanu</name></author>
