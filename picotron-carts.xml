@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-30 07:25:00</updated>
+<updated>2025-01-30 21:41:21</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">savepalette (for Aseprite)</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146865"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146865</id>
-<updated>2025-01-30 07:25:00</updated>
-<summary></summary>
-<category term="[&quot;wip&quot;,&quot;palette&quot;,&quot;aseprite&quot;,]"/>
-<author><name>sugarflower</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_savepalette-0.png"/>
-</entry>
 
 <entry>
 <title type="html">PoKer</title>
@@ -79,7 +68,7 @@
 <summary></summary>
 <category term="[&quot;composition&quot;,&quot;synth&quot;,]"/>
 <author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccmee-1.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccmee-2.png"/>
 </entry>
 
 <entry>
@@ -127,28 +116,6 @@
 </entry>
 
 <entry>
-<title type="html">Bubbleverse</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146811"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146811</id>
-<updated>2025-02-09 04:53:54</updated>
-<summary></summary>
-<category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
-<author><name>boggo</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_midibekeji-0.png"/>
-</entry>
-
-<entry>
-<title type="html">PicoChat</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
-<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
-<updated>2025-02-09 05:27:45</updated>
-<summary></summary>
-<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
-<author><name>Hessery</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
-</entry>
-
-<entry>
 <title type="html">String Theory</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=146628"/>
 <id>https://www.lexaloffle.com/bbs/?tid=146628</id>
@@ -168,6 +135,28 @@
 <category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
 <author><name>xietanu</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-2.png"/>
+</entry>
+
+<entry>
+<title type="html">PicoChat</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
+<id>https://www.lexaloffle.com/bbs/?tid=141179</id>
+<updated>2025-02-12 13:16:49</updated>
+<summary></summary>
+<category term="[&quot;chat&quot;,&quot;app&quot;,]"/>
+<author><name>Hessery</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_picochat-8.png"/>
+</entry>
+
+<entry>
+<title type="html">Bubbleverse</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146811"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146811</id>
+<updated>2025-02-12 14:59:40</updated>
+<summary></summary>
+<category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
+<author><name>boggo</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_midibekeji-0.png"/>
 </entry>
 
 </feed>
