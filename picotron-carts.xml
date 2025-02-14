@@ -1,31 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-30 21:41:21</updated>
+<updated>2025-01-31 10:43:37</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">PoKer</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146886"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146886</id>
-<updated>2025-01-30 21:41:21</updated>
-<summary></summary>
-<category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
-<author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/27050/5_poker.jpg"/>
-</entry>
-
-<entry>
-<title type="html">Picotron Controls Reference in tooltray</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146872"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146872</id>
-<updated>2025-01-30 23:24:38</updated>
-<summary></summary>
-<category term="[&quot;utility&quot;,&quot;picotron&quot;,]"/>
-<author><name>earcrayola</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_controls_ref-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Hatsune Miku Desktop Pet</title>
@@ -112,7 +90,7 @@
 <summary></summary>
 <category term="[&quot;roleplaying&quot;,&quot;rpg&quot;,]"/>
 <author><name>bugbard</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/93927/dumbass100px.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_bugbard__winter_never_ended-1.png"/>
 </entry>
 
 <entry>
