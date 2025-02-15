@@ -1,42 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-01-31 10:43:37</updated>
+<updated>2025-02-06 00:14:06</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Hatsune Miku Desktop Pet</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146901"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146901</id>
-<updated>2025-01-31 10:43:37</updated>
-<summary></summary>
-<category term="[&quot;pet&quot;,&quot;desktop&quot;,&quot;desktop-pet&quot;,&quot;miku&quot;,]"/>
-<author><name>Palette</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_miku-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Picotron Desktop Pet</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=140876"/>
-<id>https://www.lexaloffle.com/bbs/?tid=140876</id>
-<updated>2025-01-31 20:52:09</updated>
-<summary></summary>
-<category term="[&quot;desktop-pet&quot;,&quot;cat&quot;,&quot;programmerart&quot;,&quot;companion&quot;,]"/>
-<author><name>cubee</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_desktop_pet-6.png"/>
-</entry>
-
-<entry>
-<title type="html">Rainbow Bobs</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146959"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146959</id>
-<updated>2025-02-02 19:21:39</updated>
-<summary></summary>
-<category term="[&quot;demoscene&quot;,&quot;scanline&quot;,&quot;palettes&quot;,]"/>
-<author><name>Rybar</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_rainbow_bobs-0.png"/>
-</entry>
 
 <entry>
 <title type="html">Chaotic Computer Music Emulation Engine</title>
@@ -105,17 +72,6 @@
 </entry>
 
 <entry>
-<title type="html">SpaghettiCode v0.2.0</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
-<updated>2025-02-11 15:19:40</updated>
-<summary></summary>
-<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
-<author><name>xietanu</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-2.png"/>
-</entry>
-
-<entry>
 <title type="html">PicoChat</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=141179"/>
 <id>https://www.lexaloffle.com/bbs/?tid=141179</id>
@@ -135,6 +91,61 @@
 <category term="[&quot;platformer&quot;,&quot;space&quot;,]"/>
 <author><name>boggo</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_midibekeji-0.png"/>
+</entry>
+
+<entry>
+<title type="html">SpaghettiCode v0.2.0</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147028"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147028</id>
+<updated>2025-02-14 09:11:03</updated>
+<summary></summary>
+<category term="[&quot;app&quot;,&quot;code&quot;,&quot;editor&quot;,&quot;productivity&quot;,]"/>
+<author><name>xietanu</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_spaghetticode-2.png"/>
+</entry>
+
+<entry>
+<title type="html">Snacke</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147192"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147192</id>
+<updated>2025-02-14 10:01:37</updated>
+<summary></summary>
+<category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snaske003d-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Raz Stonks Simulator</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147172"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147172</id>
+<updated>2025-02-14 12:23:26</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>JimboTheGod</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_stonks-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Oxykiss</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147147"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147147</id>
+<updated>2025-02-14 12:53:04</updated>
+<summary></summary>
+<category term="[&quot;valentines&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
+<author><name>Chillcraft</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_kituduzeti-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Picotron Remote Terminal</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=145162"/>
+<id>https://www.lexaloffle.com/bbs/?tid=145162</id>
+<updated>2025-02-15 02:14:47</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>arnaught</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_prt-0.png"/>
 </entry>
 
 </feed>
