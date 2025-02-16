@@ -105,17 +105,6 @@
 </entry>
 
 <entry>
-<title type="html">Snacke</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147192"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147192</id>
-<updated>2025-02-14 10:01:37</updated>
-<summary></summary>
-<category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
-<author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snaske003d-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Raz Stonks Simulator</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147172"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147172</id>
@@ -138,10 +127,21 @@
 </entry>
 
 <entry>
+<title type="html">Snacke</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147208"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147208</id>
+<updated>2025-02-15 18:32:49</updated>
+<summary></summary>
+<category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snacke02a-0.png"/>
+</entry>
+
+<entry>
 <title type="html">Picotron Remote Terminal</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145162"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145162</id>
-<updated>2025-02-15 02:14:47</updated>
+<updated>2025-02-16 00:40:12</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>arnaught</name></author>
