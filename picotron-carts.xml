@@ -127,25 +127,58 @@
 </entry>
 
 <entry>
+<title type="html">PoKer</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146886"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146886</id>
+<updated>2025-02-16 09:30:44</updated>
+<summary></summary>
+<category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_poker02a-0.png"/>
+</entry>
+
+<entry>
 <title type="html">Snacke</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=147208"/>
 <id>https://www.lexaloffle.com/bbs/?tid=147208</id>
-<updated>2025-02-15 18:32:49</updated>
+<updated>2025-02-16 14:48:21</updated>
 <summary></summary>
 <category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
 <author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snacke02a-0.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snacke04b-0.png"/>
 </entry>
 
 <entry>
 <title type="html">Picotron Remote Terminal</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145162"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145162</id>
-<updated>2025-02-16 00:40:12</updated>
+<updated>2025-02-16 15:54:09</updated>
 <summary></summary>
 <category term="[]"/>
 <author><name>arnaught</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_prt-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Shooting Star</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147268"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147268</id>
+<updated>2025-02-16 22:40:52</updated>
+<summary></summary>
+<category term="[&quot;celeste&quot;,&quot;mod&quot;,&quot;space&quot;,&quot;picotron&quot;,]"/>
+<author><name>ooooggll</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/57071/ooooggll minimal square.png"/>
+</entry>
+
+<entry>
+<title type="html">Tiny Wars</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147283"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147283</id>
+<updated>2025-02-17 05:14:43</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tiny_wars-0.png"/>
 </entry>
 
 </feed>
