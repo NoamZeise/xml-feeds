@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://www.lexaloffle.com/bbs/?cat=8#sub=2" rel="self" type="application/atom+xml"/>
 <generator uri="https://github.com/NoamZeise/extract-rss">extract-rss</generator>
-<updated>2025-02-06 00:14:06</updated>
+<updated>2025-02-06 11:39:58</updated>
 <id>https://www.lexaloffle.com/bbs/?cat=8#sub=2</id>
 <title>Picotron Cartridges</title>
-
-<entry>
-<title type="html">Chaotic Computer Music Emulation Engine</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147004"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147004</id>
-<updated>2025-02-06 00:14:06</updated>
-<summary></summary>
-<category term="[&quot;composition&quot;,&quot;synth&quot;,]"/>
-<author><name>fantasticfox</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_ccmee-2.png"/>
-</entry>
 
 <entry>
 <title type="html">pomodoro.p64</title>
@@ -127,28 +116,6 @@
 </entry>
 
 <entry>
-<title type="html">PoKer</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=146886"/>
-<id>https://www.lexaloffle.com/bbs/?tid=146886</id>
-<updated>2025-02-16 09:30:44</updated>
-<summary></summary>
-<category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
-<author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_poker02a-0.png"/>
-</entry>
-
-<entry>
-<title type="html">Snacke</title>
-<link href="https://www.lexaloffle.com/bbs/?tid=147208"/>
-<id>https://www.lexaloffle.com/bbs/?tid=147208</id>
-<updated>2025-02-16 14:48:21</updated>
-<summary></summary>
-<category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
-<author><name>heliuse</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snacke04b-0.png"/>
-</entry>
-
-<entry>
 <title type="html">Picotron Remote Terminal</title>
 <link href="https://www.lexaloffle.com/bbs/?tid=145162"/>
 <id>https://www.lexaloffle.com/bbs/?tid=145162</id>
@@ -167,7 +134,7 @@
 <summary></summary>
 <category term="[&quot;celeste&quot;,&quot;mod&quot;,&quot;space&quot;,&quot;picotron&quot;,]"/>
 <author><name>ooooggll</name></author>
-<media:thumbnail xmlns:media="https://www.lexaloffle.com/media/57071/ooooggll minimal square.png"/>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_shooting_star-0.png"/>
 </entry>
 
 <entry>
@@ -179,6 +146,50 @@
 <category term="[]"/>
 <author><name>peterhodgden</name></author>
 <media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_tiny_wars-0.png"/>
+</entry>
+
+<entry>
+<title type="html">PoKer</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146886"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146886</id>
+<updated>2025-02-17 10:33:11</updated>
+<summary></summary>
+<category term="[&quot;poker&quot;,&quot;casino&quot;,&quot;game&quot;,&quot;credits&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_poker01e-0.png"/>
+</entry>
+
+<entry>
+<title type="html">Sushi Sweep</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=146637"/>
+<id>https://www.lexaloffle.com/bbs/?tid=146637</id>
+<updated>2025-02-17 15:06:14</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>peterhodgden</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_sushi_sweep-10.png"/>
+</entry>
+
+<entry>
+<title type="html">Snacke</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147208"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147208</id>
+<updated>2025-02-17 18:26:52</updated>
+<summary></summary>
+<category term="[&quot;snake&quot;,&quot;game&quot;,&quot;arcade&quot;,]"/>
+<author><name>heliuse</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_snacke04a-1.png"/>
+</entry>
+
+<entry>
+<title type="html">Isometric with mouse</title>
+<link href="https://www.lexaloffle.com/bbs/?tid=147302"/>
+<id>https://www.lexaloffle.com/bbs/?tid=147302</id>
+<updated>2025-02-17 22:15:53</updated>
+<summary></summary>
+<category term="[]"/>
+<author><name>FabricioKarim77</name></author>
+<media:thumbnail xmlns:media="https://www.lexaloffle.com/bbs/thumbs/pico64_isometricmouse-1.png"/>
 </entry>
 
 </feed>
